@@ -1,0 +1,1868 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "type": "object",
+    "properties": {
+        "number_of_employees": {
+            "type": "object",
+            "properties": {
+                "kvartalsbeskaeftigelse": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "aar": {
+                                "type": "string"
+                            },
+                            "antalAarsvaerk": {
+                                "type": "string"
+                            },
+                            "number_of_employees": {
+                                "type": "string"
+                            },
+                            "intervalKodeAntalAarsvaerk": {
+                                "type": "string"
+                            },
+                            "intervalKodeAntalAnsatte": {
+                                "type": [
+                                    "null",
+                                    "string"
+                                ]
+                            },
+                            "kvartal": {
+                                "type": "string"
+                            },
+                            "maaned": {
+                                "type": "null"
+                            },
+                            "periode": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "aar",
+                            "antalAarsvaerk",
+                            "intervalKodeAntalAarsvaerk",
+                            "intervalKodeAntalAnsatte",
+                            "kvartal",
+                            "maaned",
+                            "number_of_employees",
+                            "periode"
+                        ]
+                    }
+                },
+                "maanedsbeskaeftigelse": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "aar": {
+                                "type": "string"
+                            },
+                            "antalAarsvaerk": {
+                                "type": "string"
+                            },
+                            "number_of_employees": {
+                                "type": "string"
+                            },
+                            "intervalKodeAntalAarsvaerk": {
+                                "type": "null"
+                            },
+                            "intervalKodeAntalAnsatte": {
+                                "type": "null"
+                            },
+                            "kvartal": {
+                                "type": "null"
+                            },
+                            "maaned": {
+                                "type": "integer"
+                            },
+                            "periode": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "aar",
+                            "antalAarsvaerk",
+                            "intervalKodeAntalAarsvaerk",
+                            "intervalKodeAntalAnsatte",
+                            "kvartal",
+                            "maaned",
+                            "number_of_employees",
+                            "periode"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "kvartalsbeskaeftigelse",
+                "maanedsbeskaeftigelse"
+            ]
+        },
+        "ownership": {
+            "type": "object",
+            "properties": {
+                "active_legal_owners": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "address": {
+                                "type": [
+                                    "null",
+                                    "string"
+                                ]
+                            },
+                            "ekstraData": {
+                                "type": "string"
+                            },
+                            "ekstraDataList": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "tekstnogle": {
+                                            "type": "string"
+                                        },
+                                        "vaerdi": {
+                                            "type": "string"
+                                        },
+                                        "vaerdiTekstnogle": {
+                                            "type": "null"
+                                        }
+                                    },
+                                    "required": [
+                                        "tekstnogle",
+                                        "vaerdi",
+                                        "vaerdiTekstnogle"
+                                    ]
+                                }
+                            },
+                            "enhedstype": {
+                                "type": "string"
+                            },
+                            "id": {
+                                "type": "string"
+                            },
+                            "personType": {
+                                "type": [
+                                    "null",
+                                    "string"
+                                ]
+                            },
+                            "senesteNavn": {
+                                "type": "string"
+                            },
+                            "sorteringsVaredi": {
+                                "type": "integer"
+                            },
+                            "titlePrefix": {
+                                "type": "null"
+                            }
+                        },
+                        "required": [
+                            "address",
+                            "ekstraData",
+                            "ekstraDataList",
+                            "enhedstype",
+                            "id",
+                            "personType",
+                            "senesteNavn",
+                            "sorteringsVaredi",
+                            "titlePrefix"
+                        ]
+                    }
+                },
+                "active_beneficial_owners": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "address": {
+                                "type": [
+                                    "null",
+                                    "string"
+                                ]
+                            },
+                            "ekstraData": {
+                                "type": "string"
+                            },
+                            "ekstraDataList": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "tekstnogle": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
+                                        },
+                                        "vaerdi": {
+                                            "type": "string"
+                                        },
+                                        "vaerdiTekstnogle": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
+                                        }
+                                    },
+                                    "required": [
+                                        "tekstnogle",
+                                        "vaerdi",
+                                        "vaerdiTekstnogle"
+                                    ]
+                                }
+                            },
+                            "enhedstype": {
+                                "type": "string"
+                            },
+                            "id": {
+                                "type": "string"
+                            },
+                            "personType": {
+                                "type": "string"
+                            },
+                            "senesteNavn": {
+                                "type": "string"
+                            },
+                            "sorteringsVaredi": {
+                                "type": "integer"
+                            },
+                            "titlePrefix": {
+                                "type": "null"
+                            }
+                        },
+                        "required": [
+                            "address",
+                            "ekstraData",
+                            "ekstraDataList",
+                            "enhedstype",
+                            "id",
+                            "personType",
+                            "senesteNavn",
+                            "sorteringsVaredi",
+                            "titlePrefix"
+                        ]
+                    }
+                },
+                "beneficiary_group_name": {
+                    "type": "null"
+                },
+                "beneficiary_group_legal_claim": {
+                    "type": "null"
+                },
+                "bestyrelseAnsesSomReelleEjere": {
+                    "type": "boolean"
+                },
+                "ejerregistreringUnderFemProcent": {
+                    "type": "boolean"
+                },
+                "terminated_legal_owners": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "address": {
+                                "type": [
+                                    "null",
+                                    "string"
+                                ]
+                            },
+                            "ekstraData": {
+                                "type": "string"
+                            },
+                            "ekstraDataList": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "tekstnogle": {
+                                            "type": "string"
+                                        },
+                                        "vaerdi": {
+                                            "type": "string"
+                                        },
+                                        "vaerdiTekstnogle": {
+                                            "type": "null"
+                                        }
+                                    },
+                                    "required": [
+                                        "tekstnogle",
+                                        "vaerdi",
+                                        "vaerdiTekstnogle"
+                                    ]
+                                }
+                            },
+                            "enhedstype": {
+                                "type": "string"
+                            },
+                            "id": {
+                                "type": "string"
+                            },
+                            "personType": {
+                                "type": [
+                                    "null",
+                                    "string"
+                                ]
+                            },
+                            "senesteNavn": {
+                                "type": "string"
+                            },
+                            "sorteringsVaredi": {
+                                "type": "integer"
+                            },
+                            "titlePrefix": {
+                                "type": "null"
+                            }
+                        },
+                        "required": [
+                            "address",
+                            "ekstraData",
+                            "ekstraDataList",
+                            "enhedstype",
+                            "id",
+                            "personType",
+                            "senesteNavn",
+                            "sorteringsVaredi",
+                            "titlePrefix"
+                        ]
+                    }
+                },
+                "ophoerteReelleEjere": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "address": {
+                                "type": [
+                                    "null",
+                                    "string"
+                                ]
+                            },
+                            "ekstraData": {
+                                "type": "string"
+                            },
+                            "ekstraDataList": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "tekstnogle": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
+                                        },
+                                        "vaerdi": {
+                                            "type": "string"
+                                        },
+                                        "vaerdiTekstnogle": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
+                                        }
+                                    },
+                                    "required": [
+                                        "tekstnogle",
+                                        "vaerdi",
+                                        "vaerdiTekstnogle"
+                                    ]
+                                }
+                            },
+                            "enhedstype": {
+                                "type": "string"
+                            },
+                            "id": {
+                                "type": "string"
+                            },
+                            "personType": {
+                                "type": "string"
+                            },
+                            "senesteNavn": {
+                                "type": "string"
+                            },
+                            "sorteringsVaredi": {
+                                "type": "integer"
+                            },
+                            "titlePrefix": {
+                                "type": "null"
+                            }
+                        },
+                        "required": [
+                            "address",
+                            "ekstraData",
+                            "ekstraDataList",
+                            "enhedstype",
+                            "id",
+                            "personType",
+                            "senesteNavn",
+                            "sorteringsVaredi",
+                            "titlePrefix"
+                        ]
+                    }
+                },
+                "virksomhedHarIkkeKunnetIdentificereReelleEjereLedelseErIndsat": {
+                    "type": "boolean"
+                },
+                "virksomhedHarIkkeReelleEjereOgLedelseErIndsat": {
+                    "type": "boolean"
+                }
+            },
+            "required": [
+                "active_beneficial_owners",
+                "active_legal_owners",
+                "beneficiary_group_legal_claim",
+                "beneficiary_group_name",
+                "bestyrelseAnsesSomReelleEjere",
+                "ejerregistreringUnderFemProcent",
+                "ophoerteReelleEjere",
+                "terminated_legal_owners",
+                "virksomhedHarIkkeKunnetIdentificereReelleEjereLedelseErIndsat",
+                "virksomhedHarIkkeReelleEjereOgLedelseErIndsat"
+            ]
+        },
+        "association_representatives": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "address": {
+                        "type": "string"
+                    },
+                    "enhedsNummer": {
+                        "type": "string"
+                    },
+                    "indtraadtDato": {
+                        "type": "string"
+                    },
+                    "name": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "address",
+                    "enhedsNummer",
+                    "indtraadtDato",
+                    "name"
+                ]
+            }
+        },
+        "has_manual_signing": {
+            "type": "boolean"
+        },
+        "historic_basic_data": {
+            "type": "object",
+            "properties": {
+                "address": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "gyldigFra": {
+                                "type": "string"
+                            },
+                            "gyldigTil": {
+                                "type": "string"
+                            },
+                            "vaerdi": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "gyldigFra",
+                            "gyldigTil",
+                            "vaerdi"
+                        ]
+                    }
+                },
+                "additional_industries": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "gyldigFra": {
+                                "type": "string"
+                            },
+                            "gyldigTil": {
+                                "type": "string"
+                            },
+                            "vaerdi": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "gyldigFra",
+                            "gyldigTil",
+                            "vaerdi"
+                        ]
+                    }
+                },
+                "industry_code": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "gyldigFra": {
+                                "type": "string"
+                            },
+                            "gyldigTil": {
+                                "type": "string"
+                            },
+                            "vaerdi": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "gyldigFra",
+                            "gyldigTil",
+                            "vaerdi"
+                        ]
+                    }
+                },
+                "purpose": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "gyldigFra": {
+                                "type": "string"
+                            },
+                            "gyldigTil": {
+                                "type": "string"
+                            },
+                            "vaerdi": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "gyldigFra",
+                            "gyldigTil",
+                            "vaerdi"
+                        ]
+                    }
+                },
+                "name": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "gyldigFra": {
+                                "type": [
+                                    "null",
+                                    "string"
+                                ]
+                            },
+                            "gyldigTil": {
+                                "type": "string"
+                            },
+                            "vaerdi": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "gyldigFra",
+                            "gyldigTil",
+                            "vaerdi"
+                        ]
+                    }
+                },
+                "registreretKapital": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "gyldigFra": {
+                                "type": "string"
+                            },
+                            "gyldigTil": {
+                                "type": "string"
+                            },
+                            "vaerdi": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "gyldigFra",
+                            "gyldigTil",
+                            "vaerdi"
+                        ]
+                    }
+                },
+                "senesteVedtaegtsdato": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "gyldigFra": {
+                                "type": "string"
+                            },
+                            "gyldigTil": {
+                                "type": "string"
+                            },
+                            "vaerdi": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "gyldigFra",
+                            "gyldigTil",
+                            "vaerdi"
+                        ]
+                    }
+                },
+                "status": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "gyldigFra": {
+                                "type": [
+                                    "null",
+                                    "string"
+                                ]
+                            },
+                            "gyldigTil": {
+                                "type": "string"
+                            },
+                            "vaerdi": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "gyldigFra",
+                            "gyldigTil",
+                            "vaerdi"
+                        ]
+                    }
+                },
+                "tegningsregel": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "gyldigFra": {
+                                "type": "string"
+                            },
+                            "gyldigTil": {
+                                "type": "string"
+                            },
+                            "vaerdi": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "gyldigFra",
+                            "gyldigTil",
+                            "vaerdi"
+                        ]
+                    }
+                },
+                "udenlandskAdresse": {
+                    "type": "array"
+                },
+                "bussiness_type": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "gyldigFra": {
+                                "type": "string"
+                            },
+                            "gyldigTil": {
+                                "type": "string"
+                            },
+                            "vaerdi": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "gyldigFra",
+                            "gyldigTil",
+                            "vaerdi"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "additional_industries",
+                "address",
+                "bussiness_type",
+                "industry_code",
+                "name",
+                "purpose",
+                "registreretKapital",
+                "senesteVedtaegtsdato",
+                "status",
+                "tegningsregel",
+                "udenlandskAdresse"
+            ]
+        },
+        "parent_company": {
+            "anyOf": [
+                {
+                    "type": "null"
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "address": {
+                            "type": "string"
+                        },
+                        "delvistIndbetaltKapital": {
+                            "type": "boolean"
+                        },
+                        "purpose": {
+                            "type": [
+                                "null",
+                                "string"
+                            ]
+                        },
+                        "hjemsted": {
+                            "type": "string"
+                        },
+                        "name": {
+                            "type": "string"
+                        },
+                        "registreretMyndighed": {
+                            "type": [
+                                "null",
+                                "string"
+                            ]
+                        },
+                        "registreringsnummer": {
+                            "type": "null"
+                        },
+                        "regnskabsaarSlut": {
+                            "type": [
+                                "null",
+                                "string"
+                            ]
+                        },
+                        "regnskabsaarStart": {
+                            "type": [
+                                "null",
+                                "string"
+                            ]
+                        },
+                        "senesteVedtaegtsdato": {
+                            "type": [
+                                "null",
+                                "string"
+                            ]
+                        },
+                        "senesteVedtaegtsdatoFoer1900": {
+                            "type": "boolean"
+                        },
+                        "tegnetKapital": {
+                            "type": [
+                                "null",
+                                "string"
+                            ]
+                        },
+                        "tegningsberettiget": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
+                        },
+                        "tegningsregel": {
+                            "type": [
+                                "null",
+                                "string"
+                            ]
+                        }
+                    },
+                    "required": [
+                        "address",
+                        "delvistIndbetaltKapital",
+                        "hjemsted",
+                        "name",
+                        "purpose",
+                        "registreretMyndighed",
+                        "registreringsnummer",
+                        "regnskabsaarSlut",
+                        "regnskabsaarStart",
+                        "senesteVedtaegtsdato",
+                        "senesteVedtaegtsdatoFoer1900",
+                        "tegnetKapital",
+                        "tegningsberettiget",
+                        "tegningsregel"
+                    ]
+                }
+            ]
+        },
+        "information_about_auditing": {
+            "type": "null"
+        },
+        "circle_of_people": {
+            "type": "object",
+            "properties": {
+                "ejerborgLink": {
+                    "type": "string"
+                },
+                "personkredser": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "personRoller": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "address": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
+                                        },
+                                        "ekstraData": {
+                                            "type": "string"
+                                        },
+                                        "ekstraDataList": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "tekstnogle": {
+                                                        "type": "string"
+                                                    },
+                                                    "vaerdi": {
+                                                        "type": "string"
+                                                    },
+                                                    "vaerdiTekstnogle": {
+                                                        "type": "null"
+                                                    }
+                                                },
+                                                "required": [
+                                                    "tekstnogle",
+                                                    "vaerdi",
+                                                    "vaerdiTekstnogle"
+                                                ]
+                                            }
+                                        },
+                                        "enhedstype": {
+                                            "type": "string"
+                                        },
+                                        "id": {
+                                            "type": "string"
+                                        },
+                                        "personType": {
+                                            "type": [
+                                                "null",
+                                                "string"
+                                            ]
+                                        },
+                                        "senesteNavn": {
+                                            "type": "string"
+                                        },
+                                        "sorteringsVaredi": {
+                                            "type": "integer"
+                                        },
+                                        "titlePrefix": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    },
+                                    "required": [
+                                        "address",
+                                        "ekstraData",
+                                        "ekstraDataList",
+                                        "enhedstype",
+                                        "id",
+                                        "personType",
+                                        "senesteNavn",
+                                        "sorteringsVaredi",
+                                        "titlePrefix"
+                                    ]
+                                }
+                            },
+                            "rolleTekstnogle": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "personRoller",
+                            "rolleTekstnogle"
+                        ]
+                    }
+                },
+                "tegningsregel": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                }
+            },
+            "required": [
+                "ejerborgLink",
+                "personkredser",
+                "tegningsregel"
+            ]
+        },
+        "production_units": {
+            "type": "object",
+            "properties": {
+                "aktiveProduktionsenheder": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "number_of_employees": {
+                                "type": "null"
+                            },
+                            "historic_basic_data": {
+                                "type": "null"
+                            },
+                            "revisionsvirksomhed": {
+                                "anyOf": [
+                                    {
+                                        "type": "null"
+                                    },
+                                    {
+                                        "type": "object",
+                                        "properties": {
+                                            "address": {
+                                                "type": "string"
+                                            },
+                                            "name": {
+                                                "type": "string"
+                                            },
+                                            "pNummer": {
+                                                "type": "string"
+                                            },
+                                            "postnummerOgBy": {
+                                                "type": "string"
+                                            },
+                                            "tilknyttedeRevisorer": {
+                                                "type": "null"
+                                            }
+                                        },
+                                        "required": [
+                                            "address",
+                                            "name",
+                                            "pNummer",
+                                            "postnummerOgBy",
+                                            "tilknyttedeRevisorer"
+                                        ]
+                                    }
+                                ]
+                            },
+                            "basic_data": {
+                                "type": "object",
+                                "properties": {
+                                    "address": {
+                                        "type": "string"
+                                    },
+                                    "additional_industries": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "object",
+                                            "properties": {
+                                                "industry_code": {
+                                                    "type": "string"
+                                                },
+                                                "title": {
+                                                    "type": "string"
+                                                }
+                                            },
+                                            "required": [
+                                                "industry_code",
+                                                "title"
+                                            ]
+                                        }
+                                    },
+                                    "bygningsnummer": {
+                                        "type": [
+                                            "null",
+                                            "string"
+                                        ]
+                                    },
+                                    "cvr_number": {
+                                        "type": "string"
+                                    },
+                                    "email": {
+                                        "type": [
+                                            "null",
+                                            "string"
+                                        ]
+                                    },
+                                    "helligdagsaabent": {
+                                        "type": "boolean"
+                                    },
+                                    "main_industry": {
+                                        "type": "object",
+                                        "properties": {
+                                            "industry_code": {
+                                                "type": "string"
+                                            },
+                                            "title": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "required": [
+                                            "industry_code",
+                                            "title"
+                                        ]
+                                    },
+                                    "name": {
+                                        "type": "string"
+                                    },
+                                    "cessation_date": {
+                                        "type": "null"
+                                    },
+                                    "p_number": {
+                                        "type": "string"
+                                    },
+                                    "postnummerOgBy": {
+                                        "type": [
+                                            "null",
+                                            "string"
+                                        ]
+                                    },
+                                    "registreretIHvidvaskregistret": {
+                                        "type": "boolean"
+                                    },
+                                    "regnskabsperiodeSlut": {
+                                        "type": "null"
+                                    },
+                                    "regnskabsperiodeStart": {
+                                        "type": "null"
+                                    },
+                                    "reklamebeskyttet": {
+                                        "type": "boolean"
+                                    },
+                                    "start_date": {
+                                        "type": "string"
+                                    },
+                                    "telephone": {
+                                        "type": [
+                                            "null",
+                                            "string"
+                                        ]
+                                    },
+                                    "udenlandskAdresse": {
+                                        "type": "null"
+                                    },
+                                    "udenlandskAdresseLand": {
+                                        "type": "string"
+                                    },
+                                    "udenlandskAdresseLandekode": {
+                                        "type": "string"
+                                    },
+                                    "company_name": {
+                                        "type": "null"
+                                    }
+                                },
+                                "required": [
+                                    "additional_industries",
+                                    "address",
+                                    "bygningsnummer",
+                                    "cessation_date",
+                                    "company_name",
+                                    "cvr_number",
+                                    "email",
+                                    "helligdagsaabent",
+                                    "main_industry",
+                                    "name",
+                                    "p_number",
+                                    "postnummerOgBy",
+                                    "registreretIHvidvaskregistret",
+                                    "regnskabsperiodeSlut",
+                                    "regnskabsperiodeStart",
+                                    "reklamebeskyttet",
+                                    "start_date",
+                                    "telephone",
+                                    "udenlandskAdresse",
+                                    "udenlandskAdresseLand",
+                                    "udenlandskAdresseLandekode"
+                                ]
+                            }
+                        },
+                        "required": [
+                            "basic_data",
+                            "historic_basic_data",
+                            "number_of_employees",
+                            "revisionsvirksomhed"
+                        ]
+                    }
+                },
+                "ophoerteProduktionsenheder": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "number_of_employees": {
+                                "type": "null"
+                            },
+                            "historic_basic_data": {
+                                "type": "null"
+                            },
+                            "revisionsvirksomhed": {
+                                "anyOf": [
+                                    {
+                                        "type": "null"
+                                    },
+                                    {
+                                        "type": "object",
+                                        "properties": {
+                                            "address": {
+                                                "type": "string"
+                                            },
+                                            "name": {
+                                                "type": "string"
+                                            },
+                                            "pNummer": {
+                                                "type": "string"
+                                            },
+                                            "postnummerOgBy": {
+                                                "type": "string"
+                                            },
+                                            "tilknyttedeRevisorer": {
+                                                "type": "null"
+                                            }
+                                        },
+                                        "required": [
+                                            "address",
+                                            "name",
+                                            "pNummer",
+                                            "postnummerOgBy",
+                                            "tilknyttedeRevisorer"
+                                        ]
+                                    }
+                                ]
+                            },
+                            "basic_data": {
+                                "type": "object",
+                                "properties": {
+                                    "address": {
+                                        "type": "string"
+                                    },
+                                    "additional_industries": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "object",
+                                            "properties": {
+                                                "industry_code": {
+                                                    "type": "string"
+                                                },
+                                                "title": {
+                                                    "type": "string"
+                                                }
+                                            },
+                                            "required": [
+                                                "industry_code",
+                                                "title"
+                                            ]
+                                        }
+                                    },
+                                    "bygningsnummer": {
+                                        "type": "null"
+                                    },
+                                    "cvr_number": {
+                                        "type": "string"
+                                    },
+                                    "email": {
+                                        "type": [
+                                            "null",
+                                            "string"
+                                        ]
+                                    },
+                                    "helligdagsaabent": {
+                                        "type": "boolean"
+                                    },
+                                    "main_industry": {
+                                        "type": "object",
+                                        "properties": {
+                                            "industry_code": {
+                                                "type": "string"
+                                            },
+                                            "title": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "required": [
+                                            "industry_code",
+                                            "title"
+                                        ]
+                                    },
+                                    "name": {
+                                        "type": "string"
+                                    },
+                                    "cessation_date": {
+                                        "type": [
+                                            "null",
+                                            "string"
+                                        ]
+                                    },
+                                    "p_number": {
+                                        "type": "string"
+                                    },
+                                    "postnummerOgBy": {
+                                        "type": "string"
+                                    },
+                                    "registreretIHvidvaskregistret": {
+                                        "type": "boolean"
+                                    },
+                                    "regnskabsperiodeSlut": {
+                                        "type": "null"
+                                    },
+                                    "regnskabsperiodeStart": {
+                                        "type": "null"
+                                    },
+                                    "reklamebeskyttet": {
+                                        "type": "boolean"
+                                    },
+                                    "start_date": {
+                                        "type": "string"
+                                    },
+                                    "telephone": {
+                                        "type": [
+                                            "null",
+                                            "string"
+                                        ]
+                                    },
+                                    "udenlandskAdresse": {
+                                        "type": "null"
+                                    },
+                                    "udenlandskAdresseLand": {
+                                        "type": "string"
+                                    },
+                                    "udenlandskAdresseLandekode": {
+                                        "type": "string"
+                                    },
+                                    "company_name": {
+                                        "type": "null"
+                                    }
+                                },
+                                "required": [
+                                    "additional_industries",
+                                    "address",
+                                    "bygningsnummer",
+                                    "cessation_date",
+                                    "company_name",
+                                    "cvr_number",
+                                    "email",
+                                    "helligdagsaabent",
+                                    "main_industry",
+                                    "name",
+                                    "p_number",
+                                    "postnummerOgBy",
+                                    "registreretIHvidvaskregistret",
+                                    "regnskabsperiodeSlut",
+                                    "regnskabsperiodeStart",
+                                    "reklamebeskyttet",
+                                    "start_date",
+                                    "telephone",
+                                    "udenlandskAdresse",
+                                    "udenlandskAdresseLand",
+                                    "udenlandskAdresseLandekode"
+                                ]
+                            }
+                        },
+                        "required": [
+                            "basic_data",
+                            "historic_basic_data",
+                            "number_of_employees",
+                            "revisionsvirksomhed"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "aktiveProduktionsenheder",
+                "ophoerteProduktionsenheder"
+            ]
+        },
+        "coherent_accounts": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "periodeFormateret": {
+                        "type": "string"
+                    },
+                    "regnskaber": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "begrundelseForTilbagetraekning": {
+                                    "type": "null"
+                                },
+                                "cvrNummer": {
+                                    "type": "string"
+                                },
+                                "datoForTilbageTrukket": {
+                                    "type": [
+                                        "null",
+                                        "string"
+                                    ]
+                                },
+                                "dirigentNavn": {
+                                    "type": [
+                                        "null",
+                                        "string"
+                                    ]
+                                },
+                                "dokumentType": {
+                                    "type": "string"
+                                },
+                                "dokumentreferencer": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "dokumentId": {
+                                                "type": "string"
+                                            },
+                                            "dokumenttype": {
+                                                "type": "string"
+                                            },
+                                            "indholdstype": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "required": [
+                                            "dokumentId",
+                                            "dokumenttype",
+                                            "indholdstype"
+                                        ]
+                                    }
+                                },
+                                "godkendelsesdato": {
+                                    "type": [
+                                        "null",
+                                        "string"
+                                    ]
+                                },
+                                "hovednavn": {
+                                    "type": "string"
+                                },
+                                "indberetningstype": {
+                                    "type": "string"
+                                },
+                                "offentliggoerelseId": {
+                                    "type": "string"
+                                },
+                                "offentliggoerelseTidsstempel": {
+                                    "type": [
+                                        "null",
+                                        "string"
+                                    ]
+                                },
+                                "offentliggoerelseTidsstempelFormateret": {
+                                    "type": "string"
+                                },
+                                "omgjort": {
+                                    "type": "boolean"
+                                },
+                                "periodeFormateret": {
+                                    "type": "string"
+                                },
+                                "regnskabsperiodeFra": {
+                                    "type": "string"
+                                },
+                                "regnskabsperiodeTil": {
+                                    "type": "string"
+                                },
+                                "tilbagetrukket": {
+                                    "type": "boolean"
+                                }
+                            },
+                            "required": [
+                                "begrundelseForTilbagetraekning",
+                                "cvrNummer",
+                                "datoForTilbageTrukket",
+                                "dirigentNavn",
+                                "dokumentType",
+                                "dokumentreferencer",
+                                "godkendelsesdato",
+                                "hovednavn",
+                                "indberetningstype",
+                                "offentliggoerelseId",
+                                "offentliggoerelseTidsstempel",
+                                "offentliggoerelseTidsstempelFormateret",
+                                "omgjort",
+                                "periodeFormateret",
+                                "regnskabsperiodeFra",
+                                "regnskabsperiodeTil",
+                                "tilbagetrukket"
+                            ]
+                        }
+                    },
+                    "regnskabsType": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "periodeFormateret",
+                    "regnskaber",
+                    "regnskabsType"
+                ]
+            }
+        },
+        "hide_other_documents": {
+            "type": "boolean"
+        },
+        "basic_data": {
+            "type": "object",
+            "properties": {
+                "address": {
+                    "type": "string"
+                },
+                "aktiviteterOmfattetAfHvidvaskloven": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "bygningsnummer": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "cvr_number": {
+                    "type": "string"
+                },
+                "enhedsnummer": {
+                    "type": "string"
+                },
+                "harPseudoCvr": {
+                    "type": "boolean"
+                },
+                "kreditoplysningskode": {
+                    "type": [
+                        "integer",
+                        "null"
+                    ]
+                },
+                "modervirksomhederVedFranchise": {
+                    "type": "array"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "omfattetAfHvidvaskloven": {
+                    "type": "boolean"
+                },
+                "cessation_date": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "postnummerOgBy": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "registration_number": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "reklamebeskyttet": {
+                    "type": "boolean"
+                },
+                "socialoekonomiskVirksomhed": {
+                    "type": "boolean"
+                },
+                "start_date": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "statsligVirksomhed": {
+                    "type": "boolean"
+                },
+                "status": {
+                    "type": "string"
+                },
+                "stiftetFor1900Tekstnogle": {
+                    "type": "null"
+                },
+                "udenlandskAdresse": {
+                    "type": "null"
+                },
+                "udenlandskAdresseLand": {
+                    "type": "string"
+                },
+                "udenlandskAdresseLandekode": {
+                    "type": "string"
+                },
+                "virkningsdato": {
+                    "type": "string"
+                },
+                "bussiness_type": {
+                    "type": "string"
+                },
+                "virksomhedsformKode": {
+                    "type": "string"
+                },
+                "visNavnPostfix": {
+                    "type": "boolean"
+                }
+            },
+            "required": [
+                "address",
+                "aktiviteterOmfattetAfHvidvaskloven",
+                "bussiness_type",
+                "bygningsnummer",
+                "cessation_date",
+                "cvr_number",
+                "enhedsnummer",
+                "harPseudoCvr",
+                "kreditoplysningskode",
+                "modervirksomhederVedFranchise",
+                "name",
+                "omfattetAfHvidvaskloven",
+                "postnummerOgBy",
+                "registration_number",
+                "reklamebeskyttet",
+                "socialoekonomiskVirksomhed",
+                "start_date",
+                "statsligVirksomhed",
+                "status",
+                "stiftetFor1900Tekstnogle",
+                "udenlandskAdresse",
+                "udenlandskAdresseLand",
+                "udenlandskAdresseLandekode",
+                "virkningsdato",
+                "virksomhedsformKode",
+                "visNavnPostfix"
+            ]
+        },
+        "extended_information": {
+            "type": "object",
+            "properties": {
+                "additional_industries": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "industry_code": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "industry_code",
+                            "title"
+                        ]
+                    }
+                },
+                "binavne": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "boersnoteret": {
+                    "type": "null"
+                },
+                "delvistIndbetaltKapital": {
+                    "type": "boolean"
+                },
+                "email": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "fax": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "foersteRegnskabsperiodeSlut": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "foersteRegnskabsperiodeStart": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "purpose": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "main_industry": {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "object",
+                            "properties": {
+                                "industry_code": {
+                                    "type": "string"
+                                },
+                                "title": {
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "industry_code",
+                                "title"
+                            ]
+                        }
+                    ]
+                },
+                "kapitalklasser": {
+                    "type": [
+                        "boolean",
+                        "null"
+                    ]
+                },
+                "kommune": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "kommunekode": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "koncessionsdato": {
+                    "type": "null"
+                },
+                "omlaegningsperiodeSlut": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "omlaegningsperiodeStart": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "postadresse": {
+                    "type": "null"
+                },
+                "registreretKapital": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "regnskabsaarSlut": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "regnskabsaarStart": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "senesteVedtaegtsdato": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "senesteVedtaegtsdatoFoer1900": {
+                    "type": "boolean"
+                },
+                "stadfaestelsesdato": {
+                    "type": "null"
+                },
+                "stadfaestetAf": {
+                    "type": "null"
+                },
+                "telephone": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "telefonSekundaert": {
+                    "type": [
+                        "null",
+                        "string"
+                    ]
+                },
+                "udenlandskPostadresse": {
+                    "type": "null"
+                },
+                "udenlandskPostadresseLand": {
+                    "type": "null"
+                },
+                "udenlandskPostadresseLandekode": {
+                    "type": "null"
+                }
+            },
+            "required": [
+                "additional_industries",
+                "binavne",
+                "boersnoteret",
+                "delvistIndbetaltKapital",
+                "email",
+                "fax",
+                "foersteRegnskabsperiodeSlut",
+                "foersteRegnskabsperiodeStart",
+                "kapitalklasser",
+                "kommune",
+                "kommunekode",
+                "koncessionsdato",
+                "main_industry",
+                "omlaegningsperiodeSlut",
+                "omlaegningsperiodeStart",
+                "postadresse",
+                "purpose",
+                "registreretKapital",
+                "regnskabsaarSlut",
+                "regnskabsaarStart",
+                "senesteVedtaegtsdato",
+                "senesteVedtaegtsdatoFoer1900",
+                "stadfaestelsesdato",
+                "stadfaestetAf",
+                "telefonSekundaert",
+                "telephone",
+                "udenlandskPostadresse",
+                "udenlandskPostadresseLand",
+                "udenlandskPostadresseLandekode"
+            ]
+        },
+        "company_registrations": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "address": {
+                        "type": "string"
+                    },
+                    "cvrNummer": {
+                        "type": "string"
+                    },
+                    "dokumentReferencer": {
+                        "type": "null"
+                    },
+                    "groenlandskRegistreringsnummer": {
+                        "type": [
+                            "null",
+                            "string"
+                        ]
+                    },
+                    "liberaleErhvervRegistreringsstatus": {
+                        "type": "string"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "offentliggoerelseId": {
+                        "type": "string"
+                    },
+                    "offentliggoerelseTidsstempel": {
+                        "type": "string"
+                    },
+                    "overskrift": {
+                        "type": "null"
+                    },
+                    "registreringsTekst": {
+                        "type": "object",
+                        "properties": {
+                            "tekstMedLink": {
+                                "type": "string"
+                            },
+                            "tekstUdenLink": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "tekstMedLink",
+                            "tekstUdenLink"
+                        ]
+                    },
+                    "registreringstype": {
+                        "type": "string"
+                    },
+                    "titelTekstnogler": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "required": [
+                    "address",
+                    "cvrNummer",
+                    "dokumentReferencer",
+                    "groenlandskRegistreringsnummer",
+                    "liberaleErhvervRegistreringsstatus",
+                    "name",
+                    "offentliggoerelseId",
+                    "offentliggoerelseTidsstempel",
+                    "overskrift",
+                    "registreringsTekst",
+                    "registreringstype",
+                    "titelTekstnogler"
+                ]
+            }
+        },
+        "company_announcements": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "offentliggoerelseId": {
+                        "type": "string"
+                    },
+                    "offentliggoerelseTidsstempel": {
+                        "type": "string"
+                    },
+                    "title": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "offentliggoerelseId",
+                    "offentliggoerelseTidsstempel",
+                    "title"
+                ]
+            }
+        }
+    },
+    "required": [
+        "association_representatives",
+        "basic_data",
+        "circle_of_people",
+        "coherent_accounts",
+        "company_announcements",
+        "company_registrations",
+        "extended_information",
+        "has_manual_signing",
+        "hide_other_documents",
+        "historic_basic_data",
+        "information_about_auditing",
+        "number_of_employees",
+        "ownership",
+        "parent_company",
+        "production_units"
+    ]
+}

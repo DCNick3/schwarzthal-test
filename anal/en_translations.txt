@@ -1,0 +1,687 @@
+stamdata-statslig_virksomhed-label                                                                  : Government enterprise
+stamdata-socialoekonomisk_virksomhed-label                                                          : Social enterprise
+stamdata-kreditoplysninger-label                                                                    : Credit information
+accordion-personkreds-overskrift                                                                    : Power to bind, key individuals and auditor
+accordion-regnskaber-overskrift                                                                     : Financial statements
+accordion-udvidede_virksomhedsoplysninger-hjaelp-overskrift                                         : Expanded business information
+accordion-udvidede_virksomhedsoplysninger-overskrift                                                : Expanded business information
+antal-ansatte-periode-kvartal                                                                       : . QTR 
+virksomhed-erhvervsstyrelsens_signatur-label                                                        : Signature of the Danish Business Authority
+virksomhed-foelg_virksomhed-label                                                                   : Follow company
+stamdata-cvrnummer-label                                                                            :  CVR number
+personkreds-tegningsregel-label                                                                     : Powers to bind
+erstdist-organisation-rolle-registret_til_bekaempelse_af_hvidvask                                   : Persons in the Register for combating Money Laundering
+erstdist-organisation-rolle-stiftere                                                                : Founders
+erstdist-organisation-rolle-direktion                                                               : Management
+erstdist-organisation-rolle-bestyrelse                                                              : Board of directors
+erstdist-organisation-rolle-revisor                                                                 : Auditor
+soeg-filter-virksomhedsmarkering-social_oekonomisk_virksomhed-label                                 : Registered social enterprise
+soeg-filter-virksomhedsmarkering-helligdagsaabent-label                                             : Open on public holidays
+soeg-filter-virksomhedsmarkering-med_reklamebeskyttelse-label                                       : With advertising protection
+soeg-filter-virksomhedsmarkering-uden_reklamebeskyttelse-label                                      : Without advertising protection
+soeg-filter-virksomhedsmarkering-revisionsvirksomheder-label                                        : Audit firms
+soeg-filter-virksomhedsmarkering-boersnoteret-label                                                 : Listed company
+soeg-filter-virksomhedsmarkering-omfattet_af_lov_om_hvidvask_og_terrorfinansiering-label            : Registered cf. the Anti-Money Laundering Act
+soeg-filter-virksomhedsmarkering-paragraf17_stk1-label                                              : Article 17 audit firms
+soeg-filter-virksomhedsmarkering-registreret-label                                                  : Firms of Registered Public Accountants
+soeg-filter-virksomhedsmarkering-statsautoriseret-label                                             : Firms of State-Authorised Public Accountants
+soeg-filter-virksomhedsmarkering-tredjelands_godkendt-label                                         : Audit firms approved in third countries
+soeg-filter-virksomhedsmarkering-godkendt-label                                                     : Approved audit firms
+soeg-filter-virksomhedsmarkering-statslig_virk-label                                                : Government-owned limited company
+soeg-filter-virksomhedsstatus-undertvangsopløsning-label                                            : Under compulsory dissolution
+soeg-filter-virksomhedsstatus-underfrivilliglikvidation-label                                       : Under voluntary liquidation
+soeg-filter-virksomhedsstatus-oploesteftergraenseoverskridendespaltning-label                       : Dissolved after cross-border division
+soeg-filter-virksomhedsstatus-aktive-label                                                          : Active
+soeg-filter-virksomhedsstatus-underreassumering-label                                               : Under resumed proceedings
+soeg-filter-virksomhedsstatus-underkonkurs-label                                                    : Under bankruptcy proceedings
+soeg-filter-virksomhedsstatus-undertvangsoploesning-label                                           : Under compulsory dissolution
+soeg-filter-virksomhedsstatus-underrekonstruktion-label                                             : Under reconstruction
+soeg-filter-virksomhedsstatus-normal-label                                                          : Normal
+soeg-filter-virksomhedsstatus-aktiv-label                                                           : Active
+soeg-filter-virksomhedsstatus-omdannet-label                                                        : Converted
+soeg-filter-virksomhedsstatus-ophoerte-label                                                        : Terminated
+soeg-filter-virksomhedsstatus-ophoert-label                                                         : Dissolved
+soeg-filter-virksomhedsstatus-slettet-label                                                         : Deleted
+soeg-filter-virksomhedsstatus-oploestefterkonkurs-label                                             : Dissolved following bankruptcy
+soeg-filter-virksomhedsstatus-oploestefterfusion-label                                              : Dissolved following merger
+soeg-filter-virksomhedsstatus-oploestefterfrivilliglikvidation-label                                : Dissolved following voluntary liquidation
+soeg-filter-virksomhedsstatus-oploesteftererklaering-label                                          : Dissolved following declaration
+soeg-filter-virksomhedsstatus-tvangsoploest-label                                                   : Dissolved following compulsory dissolution
+soeg-filter-virksomhedsstatus-oploestefterspaltning-label                                           : Dissolved following demerger
+soeg-filter-virksomhedsstatus-oploesteftergraenseoverskridendefusion-label                          : Dissolved after cross-border merger
+soeg-filter-virksomhedsstatus-oploesteftergraenseoverskridendehjemstedsflytning-label               : Dissolved after cross-border conversion
+soeg-filter-personrolle-aktiv_alle-label                                                            : Active
+soeg-filter-personrolle-aktiv_direktion-label                                                       : Management
+soeg-filter-personrolle-aktiv_bestyrelse-label                                                      : Board member
+soeg-filter-personrolle-aktiv_fad-label                                                             : Fully liable partner
+soeg-filter-personrolle-aktiv_stiftere-label                                                        : Founders
+soeg-filter-personrolle-aktiv_legale_ejere-label                                                    : Legal owners
+soeg-filter-personrolle-aktiv_reelle_ejere-label                                                    : Beneficial owners
+soeg-filter-personrolle-aktiv_foreningsrepraesentant-label                                          : Association representative
+soeg-filter-personrolle-aktiv_ejendomsformidler-label                                               : Lawyer and property mediator
+soeg-filter-personrolle-aktiv_likvidator-label                                                      : Liquidator
+soeg-filter-personrolle-aktiv_hvidvask-label                                                        : Registered cf. the Anti-Money Laundering Act
+soeg-filter-personrolle-aktiv_ejendomsmaegler-label                                                 : Estate agent
+soeg-filter-personrolle-aktiv_revisor_statsautoriseret-label                                        : State-Authorised Public Accountant
+soeg-filter-personrolle-aktiv_revisor_registreret-label                                             : Registered Public Accountant
+soeg-filter-personrolle-ophoert_alle-label                                                          : Terminated
+soeg-filter-personrolle-ophoert_direktion-label                                                     : Management
+soeg-filter-personrolle-ophoert_bestyrelse-label                                                    : Board member
+soeg-filter-personrolle-aktiv_revisor_alle-label                                                    : Active approved auditors
+soeg-filter-personrolle-ophoert_stiftere-label                                                      : Founders
+soeg-filter-personrolle-ophoert_likvidator-label                                                    : Liquidator
+soeg-filter-personrolle-ophoert_fad-label                                                           : Fully liable partner
+soeg-filter-personrolle-ophoert_legale_ejere-label                                                  : Legal owners
+soeg-filter-personrolle-ophoert_reelle_ejere-label                                                  : Beneficial owners
+soeg-filter-personrolle-ophoert_foreningsrepraesentant-label                                        : Association representative
+soeg-filter-personrolle-ophoert_hvidvask-label                                                      : Registered cf. the Anti-Money Laundering Act
+soeg-filter-personrolle-ophoert_ejendomsmaegler-label                                               : Estate agent
+soeg-filter-personrolle-ophoert_ejendomsformidler-label                                             : Lawyer and property mediator
+soeg-filter-personrolle-ophoert_revisor_alle-label                                                  : Terminated approved auditors
+soeg-filter-personrolle-ophoert_revisor_statsautoriseret-label                                      : State-Authorised Public Accountant
+soeg-filter-personrolle-ophoert_revisor_registreret-label                                           : Registered Public Accountant
+broedkrumme-forside                                                                                 : Front page
+accordion-offentliggoerelser-hjaelp-indhold                                                         : <p>Get a list of announcements and invitations to general meetings from the business. You can download and save these to your computer.</p>
+accordion-offentliggoerelser-hjaelp-overskrift                                                      : Announcements
+accordion-offentliggoerelser-overskrift                                                             : Announcements
+virksomhed-offentliggoerelser-inner-overskrift                                                      : Announcements and notices
+virksomhed-offentliggoerelser-offentliggjort                                                        : Announced
+virksomhed-offentliggoerelser-handling                                                              : Action
+virksomhed-offentliggoerelser-visalle-lukket                                                        : Show all
+virksomhed-offentliggoerelser-visalle-aaben                                                         : Show fewer
+adresse_beskyttet-hjaelp-overskrift                                                                 : No publication due to address protection
+adresse_opdatering_ophort-hjaelp-overskrift                                                         : No publication due to 3-year rule
+adresse_opdatering_ophort-hjaelp-indhold                                                            : <p>&lt;p&gt;The participant has not had an active affiliation to a company in CVR for three years or more and therefore the address is no longer published in the register. If the participant gets a new active affiliation in the CVR, the address will be published again (unless protected).&lt;/p&gt;<br/>&lt;p&gt;Read more about the options for obtaining addresses that are not published in the CVR.&lt;/p&gt;</p>
+modal-manuel-signering-overskrift                                                                   : Obtain documents with the Danish Business Authority's signature
+modal-manuel-signering-bestil_aabne-broedtekst                                                      : Obtain a paper copy of data from expanded menus on this page. The document has been signed by the Danish Business Authority. The signature confirms the genuineness of the copy. A signature costs DKK 120. Read about prices and delivery.
+modal-manuel-signering-bestil_alt-overskrift                                                        : Order all - with physical signature (only available with a Danish NemID)
+modal-manuel-signering-bestil_aabne-overskrift                                                      : Order open menus - with physical signature (only available with a Danish NemID)
+modal-manuel-signering-bestil_alt-broedtekst                                                        : Obtain a paper copy of all data on the business. The document has been signed by the Danish Business Authority. The signature confirms the genuineness of the copy. A signature costs DKK 120. Read about prices and delivery.
+bestil_dokumenter-sprogvaelger-dansk-option                                                         : Danish
+bestil_dokumenter-sprogvaelger-engelsk-option                                                       : English
+bestil_dokumenter-navneaendringscertifikat-dato-til-label                                           : To
+bestil_dokumenter-navneaendringscertifikat-dato-seneste-option                                      : Most recent update
+bestil_dokumenter-vedtaegter-dato-seneste-option                                                    : Most recent
+bestil_dokumenter-navneaendringscertifikat-dato-interval-option                                     : Date interval
+bestil_dokumenter-navneaendringscertifikat-dato-fra-label                                           : From
+bestil_dokumenter-navneaendringscertifikat-dato-label                                               : Date interval
+bestil_dokumenter-navneaendringscertifikat-dato-log_ind-indhold                                     : Log in to pick date interval
+bestil_dokumenter-navneaendringscertifikat-dags_dato-label                                          : {0} (today)
+bestil_dokumenter-vedtaegter-dato-interval-option                                                   : Other date
+bestil_dokumenter-vedtaegter-dato-log_ind-indhold                                                   : Log in to pick date
+bestil_dokumenter-vedtaegter-dato-fra-label                                                         : Date
+bestil_dokumenter-vedtaegter-dato-label                                                             : Date
+bestil_dokumenter-bestil-label                                                                      : Order
+bestil_dokumenter-tilfoej_til_kurv-label                                                            : Add to basket
+accordion-bestil_dokumenter-overskrift                                                              : Order other documents (in Danish)
+accordion-hovedselskab-overskrift                                                                   : Information on main company
+virksomhed-hovedselskab-navn                                                                        : Name of main company
+virksomhed-hovedselskab-hjemsted                                                                    : Registered office
+virksomhed-hovedselskab-registerende-myndighed                                                      : Registration authority
+virksomhed-hovedselskab-adresse                                                                     : Address
+virksomhed-hovedselskab-formaal                                                                     : Objects
+virksomhed-hovedselskab-tegnet-kapital                                                              : Subscribed capital
+virksomhed-hovedselskab-tegningsberettiget                                                          : Empowered to sign
+virksomhed-hovedselskab-tegningsregel                                                               : Power to bind
+accordion-hovedselskab-hjaelp-overskrift                                                            : Information on main company
+accordion-hovedselskab-hjaelp-indhold                                                               : <p>&lt;p&gt;Under &quot;Information on main company&quot;, can you read more about name, adress, and purpose with the parent company. You can also read more about subscribed capital, empowered to sign and power to bind&lt;/p&gt;</p>
+virksomhedHovedselskab-fra-label                                                                    : From
+virksomhedHovedselskab-til-label                                                                    : to
+accordion-produktionsenheder-overskrift                                                             : Production units
+stamdata-tilknytning-label                                                                          : Affiliation
+stamdata-navn-label                                                                                 : Name
+registreret_jf_hvidvask                                                                             : Registered cf. the Anti-Money Laundering Act
+stamdata-telefon-label                                                                              : Telephone
+stamdata-reklamebeskyttelse-label                                                                   : Advertising protection
+accordion-produktionsenheder-hjaelp-overskrift                                                      : Production units
+dokumenter-indholdstype-bestil-link                                                                 : Order
+accordion-produktionsenheder-hjaelp-indhold                                                         : <p>&lt;p&gt;P units (production units) refer to the addresses where the business has employees.&lt;br&gt;&lt;br&gt;You must have a P number for each address at which you have employees. The first P number is allocated to you automatically along with your CVR number and it refers to the same address as the CVR number.&lt;/p&gt;</p>
+accordion-produktionsenheder-ophoerte-aaben                                                         : Hide closed production units
+accordion-produktionsenheder-ophoerte-lukket                                                        : Show closed production units
+regnskab-postlevering-modal-tekst-indhold                                                           : As a rule, financial statements are in Danish. Since 1 January 2014 it has also been an option to report financial statements in English.
+regnskab-postlevering-modal-tekst-label                                                             : Order financial statement
+regnskab-postlevering-modal-offentliggjort-label                                                    : Announced
+regnskab-postlevering-modal-periode-label                                                           : Accounting period
+regnskab-postlevering-modal-overskrift                                                              : Order financial statement
+virksomhedRegistreringer-cvrnummer-label                                                            : CVR number
+virksomhedRegistreringer-adresse-og-navn-label                                                      : Name and adress
+virksomhed-registrering-visalle-lukket                                                              : Show all registrations
+virksomhed-registrering-visalle-aaben                                                               : Show fewer registrations
+accordion-produktionsenheder-aktive-visalle-lukket                                                  : Show all production units
+accordion-produktionsenheder-aktive-visalle-aaben                                                   : Show fewer production units
+modal-branchekode-overskrift                                                                        : Search for a branch
+soeg-branchekode-modal-placeholder                                                                  : The company deals with...
+soeg-branchekode-modal-subtitel                                                                     : Search results
+accordion-branchekode-soegeresultat-rightsideButton-titel                                           : Select
+ejerandel-procent-label                                                                             : Pct. of share capital:
+ejerandel-stemmeretprocent-label                                                                    : Pct. of voting rights:
+ejerandel-aendringsdato-label                                                                       : Date of change:
+ejerandel-underfemprocent-tekst                                                                     : Under 5%
+accordion-produktionsenheder-ophoerte-visalle-aaben                                                 : Show fewer production units
+accordion-produktionsenheder-ophoerte-visalle-lukket                                                : Show all production units
+forside-soegefelt-filter-startdato_ophoersdato_skjul-button                                         : Hide date filter
+broedkrumme-byg-din-egen-virksomhedsrapport                                                         : Create your own business report
+stamdata-pnummer-label                                                                              : P-number
+stamdata-adresse-label                                                                              : Address
+stamdata-postnummerby-label                                                                         : Postal code and city
+stamdata-startdato-label                                                                            : Start date
+stamdata-nej-label                                                                                  : No
+stamdata-ophoersdato-label                                                                          : Cessation date
+stamdata-hovedbranche-label                                                                         : Activity code
+stamdata-email-label                                                                                : Email
+stamdata-regnskabsperiode_for_helligdagsaabent-label                                                : Accounting period for being open on public holidays
+stamdata-helligdagsaabent-label                                                                     : Open on public holidays
+stamdata-aktiviteter_omfattet_af_hvidvaskloven-label                                                : Registered activities cf. the Anti-Money Laundering Act
+stamdata-omfattet_af_hvidvaskloven-label                                                            : Registered cf. the Anti-Money Laundering Act
+stamdata-udenlandsk_adresse-label                                                                   : Foreign address
+accordion-ejerforhold-overskrift                                                                    : Ownership
+accordion-ejerforhold-hjaelp-overskrift                                                             : Ownership
+accordion-ejerforhold-hjaelp-indhold                                                                : <p>&lt;p&gt;&lt;strong&gt;Legal owners&lt;/strong&gt; are persons or companies that directly:&lt;/p&gt;<br/>&lt;ul&gt;&lt;li&gt;have at least 5% ownership or voting rights&lt;/li&gt;<br/>&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Beneficial owners&lt;/strong&gt; are persons who directly or indirectly:&lt;/p&gt;<br/>&lt;ul&gt;&lt;li&gt;have more than 25% ownership or voting rights or&lt;/li&gt;<br/>&lt;li&gt;have other decisive control, for example a veto right, the right to appoint Board members or similar&lt;/li&gt;<br/>&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://erhvervsstyrelsen.dk/registrering-af-ejerforhold&quot;&gt;Read more about registration of owners (in Danish)&lt;/a&gt;.&lt;/p&gt;</p>
+ejerforhold-legale-ejere-label                                                                      : Legal owners
+ejerforhold-reelle-ejere-label                                                                      : Beneficial owners
+ejerforhold-ophoerte-legale-ejere-label                                                             : Terminated legal owners
+ejerforhold-ophoerte-reelle-ejere-label                                                             : Terminated beneficial owners
+antal-ansatte-pr-maaned-tabel-label-antalAarsvaerk                                                  : Full-time equivalent
+antal-ansatte-pr-kvartal-tabel-label-antalAarsvaerk                                                 : Full-time equivalent
+historisk-stamdata-branchekode-tabel-overskrift                                                     : Activity code
+historisk-stamdata-navn-tabel-overskrift                                                            : Name of business
+historisk-stamdata-seneste_vedtaegtsdato-tabel-overskrift                                           : Latest articles of association
+historisk-stamdata-adresse-tabel-overskrift                                                         : Address
+historisk-stamdata-registreret_kapital-tabel-overskrift                                             : Registered capital
+historisk-stamdata-bibranche-tabel-overskrift                                                       : Secondary activity
+historisk-stamdata-formaal-tabel-overskrift                                                         : Objects
+historisk-stamdata-tegningsregel-tabel-overskrift                                                   : Powers to bind
+historisk-stamdata-status-tabel-overskrift                                                          : Status
+soeg-branchekode-modal-aria_label                                                                   : Search for a branch
+historisk-stamdata-virksomhedsform-tabel-overskrift                                                 : Business type
+ejerforhold-bestyrelse-anses-som-reelle-ejere-tekst                                                 : The directors of the board are regarded as beneficial owners
+ejerforhold-virksomhed-har-ikke-reelle-ejere-tekst                                                  : The business has no beneficial owners and the management is therefore recognised as the beneficial owners.
+erstdist-organisation-rolle-fuldt_ansvarlig_deltagere                                               : Fully liable partner
+enhedstype-virksomhed-label                                                                         : Businesses {0}
+enhedstype-produktionsenhed-label                                                                   : Production units {0}
+enhedstype-person-label                                                                             : Persons {0}
+kontekstnaer-hjaelp-aria_label                                                                      : Read more about
+antal-ansatte-pr-kvartal-tabel-overskrift                                                           : Number of employees per quarter
+antal-ansatte-pr-maaned-tabel-overskrift                                                            :  Number of employees per month
+vis-mindre-knap                                                                                     : Show less data
+historisk-stamdata-navn-tabel-label-gyldigFra                                                       : From
+historisk-stamdata-adresse-tabel-label-gyldigFra                                                    : From
+historisk-stamdata-virksomhedsform-tabel-label-gyldigFra                                            : From
+historisk-stamdata-status-tabel-label-gyldigFra                                                     : From
+historisk-stamdata-branchekode-tabel-label-gyldigFra                                                : From
+historisk-stamdata-bibranche-tabel-label-gyldigFra                                                  : From
+historisk-stamdata-formaal-tabel-label-gyldigFra                                                    : From
+historisk-stamdata-seneste_vedtaegtsdato-tabel-label-gyldigFra                                      : From
+historisk-stamdata-registreret_kapital-tabel-label-gyldigFra                                        : From
+historisk-stamdata-tegningsregel-tabel-label-gyldigFra                                              : From
+historisk-stamdata-udenlandsk_adresse-tabel-label-gyldigFra                                         : From
+historisk-stamdata-navn-tabel-label-gyldigTil                                                       : Till
+historisk-stamdata-adresse-tabel-label-gyldigTil                                                    : Till
+historisk-stamdata-virksomhedsform-tabel-label-gyldigTil                                            : Till
+historisk-stamdata-status-tabel-label-gyldigTil                                                     : Till
+historisk-stamdata-branchekode-tabel-label-gyldigTil                                                : Till
+historisk-stamdata-bibranche-tabel-label-gyldigTil                                                  : Till
+historisk-stamdata-formaal-tabel-label-gyldigTil                                                    : Till
+historisk-stamdata-seneste_vedtaegtsdato-tabel-label-gyldigTil                                      : Till
+historisk-stamdata-registreret_kapital-tabel-label-gyldigTil                                        : Till
+historisk-stamdata-tegningsregel-tabel-label-gyldigTil                                              : Till
+historisk-stamdata-udenlandsk_adresse-tabel-label-gyldigTil                                         : Till
+historisk-stamdata-udenlandsk_adresse-tabel-overskrift                                              : Foreign address
+historisk-stamdata-produktionsenhed-navn-tabel-label-gyldigFra                                      : From
+historisk-stamdata-produktionsenhed-navn-tabel-label-gyldigTil                                      : Till
+accordion-produktionsenhed-historisk-stamdata-hjaelp-overskrift                                     : Historical basic data
+accordion-produktionsenhed-historisk-stamdata-hjaelp-indhold                                        : <p>&lt;p&gt;&lt;strong&gt;Historical basic data&lt;/strong&gt;&lt;/p&gt;<br/>&lt;p&gt;Historical basic data shows the history of previous registrations about the business in CVR, e.g. change of name, change of registered address, restructuring, etc.&lt;/p&gt;<br/>&lt;p&gt;The historical data available about the business includes: name, address, activities, business type and status.&lt;/p&gt;</p>
+accordion-produktionsenhed-historisk-stamdata-overskrift                                            : Historical basic data
+historisk-stamdata-produktionsenhed-navn-tabel-overskrift                                           : Production unit name
+notfoundpage-header                                                                                 : Page was not found
+notfoundpage-manchet                                                                                : <p>We couldn't find the page you were looking for.<br/>The page may have been moved or there is an error in the URL.</p>
+modal-foelg-virksomhed-overskrift                                                                   : Log in to follow business
+modal-foelg-virksomhed-annuller                                                                     : Cancel
+modal-foelg-virksomhed-godkend                                                                      : OK
+modal-opret-abonnement-overskrift                                                                   : Follow business
+modal-administrer-abonnement-overskrift                                                             : Follow business
+modal-administrer-abonnement-cvr-label                                                              : CVR
+modal-administrer-abonnement-annuller                                                               : Cancel
+modal-administrer-abonnement-godkend                                                                : Follow business
+datovaelger-fejlmeddelelse-slut_foer_start-label                                                    : End date occurs before start date
+soeg-sortering-button-label                                                                         : Sort by
+forside-soegeresultat-download                                                                      : Download search result (XLSX)
+forside-soegeresultat-download-modal-overskrift                                                     : Download your search result
+accordion-virksomhed-historisk-stamdata-overskrift                                                  : Historical basic data
+accordion-virksomhed-historisk-stamdata-hjaelp-indhold                                              : <p>&lt;p&gt;&lt;strong&gt;Historical basic data&lt;/strong&gt;&lt;/p&gt;<br/>&lt;p&gt;Historical basic data shows the history of previous registrations about the business in CVR, e.g. change of name, change of registered address, restructuring, etc.&lt;/p&gt;<br/>&lt;p&gt;The historical data available about the business includes: name, address, activities, business type and status.&lt;/p&gt;</p>
+accordion-virksomhed-historisk-stamdata-hjaelp-overskrift                                           : Historical basic data
+person-liberale_erhverv-genoptagelsesdato-label                                                     : Date of readmission
+person-liberale_erhverv-bortfaldsdato-label                                                         : Date of suspension
+person-liberale_erhverv-deponeringssdato-label                                                      : Date of deposit
+person-liberale_erhverv-certificeringer-label                                                       : Certifications
+person-liberale_erhverv-deponeringsdato-label                                                       : Date of deposit
+person-liberale_erhverv-efteruddannelse-label                                                       : Continuing training
+accordion-person-liberale_erhverv-overskrift                                                        : Liberal professions
+person-liberale_erhverv-erhvervsstatus-label                                                        : Business status
+person-liberale_erhverv-mnenummer-label                                                             : Identification
+person-liberale_erhverv-faglig_titel-label                                                          : Professional title
+accordion-oplysninger_om_revisionsvirksomhed-overskrift                                             : Information on audit firm
+oplysninger_om_revisionsvirksomhed-virksomhedstype-label                                            : Type of enterprise
+oplysninger_om_revisionsvirksomhed-startdato-label                                                  : Date of commencement as audit firm
+oplysninger_om_revisionsvirksomhed-kontorsteder-label                                               : Office locations
+oplysninger_om_revisionsvirksomhed-kontorsteder-vis-alle-aaben                                      : Show fewer office locations
+oplysninger_om_revisionsvirksomhed-kontorsteder-vis-alle-lukket                                     : Show all office locations
+oplysninger_om_revisionsvirksomhed-stemmeandel-label                                                : Total percentage of votes held by approved auditors or audit firms
+oplysninger_om_revisionsvirksomhed-kontaktperson-label                                              : Contact person
+oplysninger_om_revisionsvirksomhed-webadresse-label                                                 : Internet address
+oplysninger_om_revisionsvirksomhed-netvaerk-label                                                   : Network
+person-liberale_erhverv-generelle_efteruddannelser-timer-label                                      : hours
+person-liberale_erhverv-saerlige_efteruddannelser-timer-label                                       : hours
+person-liberale_erhverv-generelle_efteruddannelser-label                                            : General continuing training
+person-liberale_erhverv-saerlige_efteruddannelser-label                                             : Special continuing training
+postnummer-fejlmeddelelse-label                                                                     : Unknown postal code
+person-gem_som_pdf-label                                                                            : Save as PDF
+virksomhed-gem_som_pdf-label                                                                        : Save as PDF
+produktionsenhed-gem_som_pdf-label                                                                  : Save as PDF
+person-liberale_erhverv-kontorsteder-label                                                          : Associated office locations
+person-liberale_erhverv-kontorsteder-visalle-lukket                                                 : Show all associations
+person-liberale_erhverv-kontorsteder-visalle-aaben                                                  : Show fewer associations
+foreningsrepraesentanter-foreningsrepraesentant-label                                               : Association representative
+accordion-foreningsrepraesentanter-overskrift                                                       : Association representative
+accordion-historiske_offentliggoerelser-overskrift                                                  : Historical digital publications
+simple-person-relationer-overskrift                                                                 : Relations
+simple-person-relationer-cvr                                                                        : CVR-number
+simple-person-relationer-reg                                                                        : Reg-number
+header-foelger-label                                                                                : Follows
+simple-person-relationer-detaljer-lukket                                                            : Show all
+simple-person-relationer-detaljer-aaben                                                             : Show less
+soeg-branchekode-modal-noresults                                                                    : Your search gave no results
+stamdata-andre-rettigheder-label                                                                    : Other rights
+pdf-footer-disclaimer                                                                               : <p>The information in this document is from The Central Business Register (CVR). The data may not be used in any way which suggests that the Danish Business Authority endorses, supports,<br/>recommends or markets the user of the data, or the services or products of the user of the data. The Danish Business Authority is not liable for the content and origin of the data, nor is it liable<br/>for any errors and omissions in the data, including for any loss or damage caused by its use.</p>
+modal-administrer-abonnement-opdater                                                                : Update
+abonnementer-slet-modal-annuller                                                                    : Cancel
+abonnementer-slet-modal-indhold                                                                     : Do you really want to delete the subscription?
+abonnementer-slet_alle-modal-annuller                                                               : Cancel
+abonnementer-slet-modal-overskrift                                                                  : Delete subscription
+abonnementer-slet_alle-modal-overskrift                                                             : Delete all subscriptions
+abonnementer-slet_alle-modal-indhold                                                                : Do you really want to delete all subscriptions?
+abonnementer-slet_alle-label                                                                        : Delete all
+abonnementer-rediger-label                                                                          : Edit
+abonnementer-slet-label                                                                             : Delete
+dokumenter-indholdstype-ukendt                                                                      : Unknown file extension
+produktionsenheder-ophoerte-overskrift                                                              : Closed production units
+modal-download-pdf-overskrift                                                                       : What do you want to save?
+modal-download-pdf-gem_alt-overskrift                                                               : Save all
+modal-download-pdf-gem_alt-text                                                                     : Save all data on the business.
+modal-download-pdf-gem_alt-button                                                                   : PDF
+modal-download-pdf-gem_aabne_bjaelker-button                                                        : PDF
+modal-download-pdf-gem_aabne_bjaelker-text                                                          : Only save data from expanded menus on this page.
+modal-manuel-signering-gem_alt-overskrift                                                           : Save all - with digital signature
+modal-manuel-signering-gem_alt-text                                                                 : Save all data on the business. The document will be saved as a PDF file with a digital signature from the Danish Business Authority. This service is free of charge.
+modal-manuel-signering-gem_aabne_bjaelker-overskrift                                                : Save open menus - with digital signature
+modal-manuel-signering-gem_aabne_bjaelker-text                                                      : Only save data from expanded menus on this page. The document will be saved as a PDF file with a digital signature from the Danish Business Authority. This service is free of charge.
+modal-manuel-signering-gem_alt-button                                                               : Save as PDF
+modal-manuel-signering-gem_aabne_bjaelker-button                                                    : Save as PDF
+person-liberale_erhverv-sikkerhedsstillelser-label                                                  : Collateral
+pdf-sagsbehandler-label                                                                             : Certified transcript
+soegeresultat-excel-download-for-mange-del1                                                         :  has more than the shown 
+soegeresultat-excel-download-for-mange-del2                                                         :  connections. Please contact the Central Business Register if you want the complete list.
+regnskab-link-title-2                                                                               : in format
+soegeresultater-tabel-vis_mere-title                                                                : Show more about
+regnskab-link-title-1                                                                               : Download financial statement from
+aktive-relationer-overskrift                                                                        : Active associations
+stamdata-virksomhedsstatus-label                                                                    : Business status
+stamdata-cvr-label                                                                                  : CVR-number
+stamdata-tilknyttet-som-label                                                                       : Affiliated as
+ophoerte-relationer-aaben                                                                           : Show less
+ophoerte-relationer-lukket                                                                          : Show all
+aktive-relationer-lukket                                                                            : Show all
+aktive-relationer-aaben                                                                             : Show less
+vis-mere-knap                                                                                       : Show all data
+ophoerte-relationer-overskrift                                                                      : Ceased associations
+stamdata-virkningsdato-label                                                                        : Effective date
+erstdist-organisation-rolle-filialbestyrer                                                          : Branch manager
+side-titel-login                                                                                    : CVR - Central Business Register
+broedkrumme-bestildokumenter                                                                        : Order documents
+virksomhed-regnskaber-tilbagetrukne-hjaelp-indhold                                                  : <p>The annual report has been withdrawn from publication. It is therefore no longer available.&lt;br/&gt;&lt;br/&gt;<br/>A previously published annual report can for example be withdrawn because:&lt;br/&gt;<br/>&lt;ul&gt;&lt;li&gt;the Danish Business Authority found that it contains such serious errors or omissions that the document is grossly misleading&lt;/li&gt;<br/>&lt;li&gt;the annual report has not been duly approved and audited&lt;/li&gt;<br/>&lt;li&gt;if the same annual report has been reported several times due to a technical error without the report being amended&lt;/li&gt;<br/>&lt;/ul&gt;</p>
+virksomhed-regnskaber-omgjorte-hjaelp-indhold                                                       : <p>The annual report has been amended, and it is therefore no longer relevant. It is possible to retrieve an amended version of the annual report. A published annual report could have been amended for example because:&lt;br/&gt;&lt;br/&gt;<br/>&lt;ul&gt;&lt;li&gt;The company determined that the new annual report is in the interest of the users of the accounts as a necessary correction of significant or obvious errors or rectification of illegal matters.&lt;/li&gt;<br/>&lt;li&gt;The Danish Business Authority found that a submitted annual report is contains significant errors or omissions, and therefore has required the company to submit a corrected annual report.&lt;/li&gt;&lt;/ul&gt;</p>
+virksomhed-regnskaber-omgjorte-hjaelp-overskrift                                                    : Amended annual report
+virksomhed-regnskaber-tilbagetrukne-hjaelp-overskrift                                               : Withdrawn annual report
+udvidede_oplysninger-telefon-label                                                                  : Telephone
+erstdist-organisation-rolle-bestyrelsesmedlemmer                                                    : Board of Directors
+virksomhed-regnskaber-omgjorte-regnskaber-label                                                     : Amended reports
+stamdata-bygningsnummer-label                                                                       : B-number
+oplysninger_om_revisionsvirksomhed-kontorsteder-visalle-lukket                                      : Show all offices
+oplysninger_om_revisionsvirksomhed-kontorsteder-visalle-aaben                                       : Show less offices
+bestil_dokumenter-regnskab_til_postlevering-overskrift                                              : Accounting period: {0}, Announced: {1}
+bestil_dokumenter-sprogvaelger-navneaendringscertifikat-label                                       : Language
+bestil_dokumenter-sprogvaelger-registreringscertifikat-label                                        : Language
+erstdist-saerligeejerforhold-har_indirekte_besiddelser                                              : Has indirect possessions {0}
+erstdist-saerligeejerforhold-potentielle_kapital_stemmeandele                                       : Potential voting rights {0}
+erstdist-saerligeejerforhold-ret_til_at_godkende_aarsrapport_i_forhold_til_udbyttebetalinger        : Right to approve dividend payment {0}
+erstdist-saerligeejerforhold-vetoret                                                                : Right of veto {0}
+erstdist-betydeligindflydelseviarolle-er_reel_ejer_som_udpeget_daglig_ledelse                       : Beneficial owners cannot be identified, senior management is registered as beneficial owners {0}
+erstdist-saerligeejerforhold-ret_til_at_udpege_ledelsesmedlemmer                                    : Right to appoint management members {0}
+pdf-fuld-visning                                                                                    :  - Full view
+pdf-selvvalgt-visning                                                                               :  - Individually chosen view
+virksomhed-ret_oplysninger_link                                                                     : Edit business information
+historiske-offentliggoerelser-lukket                                                                : Show all registrations
+historiske-offentliggoerelser-aaben                                                                 : Show fewer registrations
+registreringscertifikat-pdf-modal-overskrift                                                        : Choose language for certificate
+registreringscertifikat-pdf-modal-dansk-button                                                      : Digitally signed - Danish
+registreringscertifikat-pdf-modal-engelsk-button                                                    : Digitally signed - English
+registreringscertifikat-pdf-modal-aaben-button                                                      : PDF with digital signature
+registreringscertifikat-pdf-modal-dansk-label                                                       : Get certificate as a PDF in Danish:
+registreringscertifikat-pdf-modal-engelsk-label                                                     : Get certificate as a PDF in English:
+forside-card5-overskrift                                                                            : About CVR - The Central Business Register
+forside-card5-indhold                                                                               : <p>CVR is the Danish state's master register of information about businesses. Here, you can search businesses and find their CVR numbers, addresses, business type, etc. Navigation and headings are in English, but you will meet a lot of Danish content. Read about functions and limitations in the English version of CVR.</p>
+soegeresultater-tabel-matcher-historisk-binavn-hjaelp-overskrift                                    : This is possibly a search result that results from a match with a previous name
+soegeresultater-tabel-matcher-historisk-binavn-hjaelp-indhold                                       : <p>Click on the company to see earlier names for this company under &quot;Udvidet historik eng&quot;.</p>
+soegeresultater-tabel-matcher-historisk-hovednavn-hjaelp-indhold                                    : <p>Click on the company to see earlier names for this company under &quot;Udvidet historik eng&quot;.</p>
+soegeresultater-tabel-matcher-historisk-hovednavn-hjaelp-overskrift                                 : This is possibly a search result that results from a match with a previous name
+historisk-stamdata-produktionsenhed-navn-tabel-label-vaerdi                                         : Value
+historisk-stamdata-registreret_kapital-tabel-label-vaerdi                                           : Value
+historisk-stamdata-seneste_vedtaegtsdato-tabel-label-vaerdi                                         : Value
+historisk-stamdata-formaal-tabel-label-vaerdi                                                       : Value
+historisk-stamdata-bibranche-tabel-label-vaerdi                                                     : Value
+historisk-stamdata-status-tabel-label-vaerdi                                                        : Value
+historisk-stamdata-virksomhedsform-tabel-label-vaerdi                                               : Value
+historisk-stamdata-adresse-tabel-label-vaerdi                                                       : Value
+historisk-stamdata-navn-tabel-label-vaerdi                                                          : Value
+historisk-stamdata-udenlandsk_adresse-tabel-label-vaerdi                                            : Value
+historisk-stamdata-tegningsregel-tabel-label-vaerdi                                                 : Value
+historisk-stamdata-branchekode-tabel-label-vaerdi                                                   : Value
+bestil_dokumenter-generalforsamlingsprotokollat-dato-label                                          : Date
+bestil_dokumenter-generalforsamlingsprotokollat-dato-seneste-option                                 : Most recent
+bestil_dokumenter-generalforsamlingsprotokollat-dato-interval-option                                : Other date
+abonnementer-slet-modal-godkend                                                                     : Cancel subscription
+abonnementer-slet_alle-modal-godkend                                                                : Cancel subscriptions
+abonnementer-slet-alle-tekst                                                                        : Do you wish to cancel all subscriptions ({0})?
+abonnementer-slet-enkelt-tekst                                                                      : Do you wish to stop following:
+abonnementer-slet-enkelt-navn                                                                       : Name:
+abonnementer-slet-enkelt-cvr                                                                        : CVR number:
+abonnementer-slet-enkelt-reg                                                                        : REG number:
+toastr-afmeld-alle-abonnementer-success-notifikation-overskrift                                     : Subscriptions
+toastr-afmeld-abonnement-success-notifikation-overskrift                                            : Subscriptions
+toastr-afmeld-abonnement-success-notifikation-indhold                                               : Subscription was cancelled
+toastr-afmeld-alle-abonnementer-success-notifikation-indhold                                        : Subscriptions were cancelled
+bestil_dokumenter-generalforsamlingsprotokollat-dato-fra-label                                      : Date
+bestil_dokumenter-generalforsamlingsprotokollat-dato-log_ind-indhold                                : Log in to pick date
+toastr-abonnementer-ikke-gyldigt-id-error-notifikation-overskrift                                   : Subscriptions
+toastr-abonnementer-ikke-gyldigt-id-error-notifikation-indhold                                      : Not a valid id
+modal-foelg-virksomhed-indhold                                                                      : <p>&lt;p&gt;You need to be logged in to Virk to follow a business. When you follow a business you will get notifications when changes are made to the business.&lt;/p&gt;<br/>&lt;p&gt;To log in you need a Danish NemID.&lt;/p&gt;<br/>&lt;p&gt;Log in and click Follow business again.&lt;/p&gt;</p>
+side-titel-eidlogin                                                                                 : How do you want to log in?
+forside-soegefelt-placeholder                                                                       : Search CVR number, business name, address, person...
+artikel-saadan_soeger_du-overskrift                                                                 : Search
+artikel-saadan_soeger_du-manchet                                                                    : Search business information in CVR.
+regnskaber-periode-label                                                                            : Reporting period
+regnskaber-offentliggoerelsetidsstempel-label                                                       : Date of publication
+regnskaber-dokumentreferencer-bestil-label                                                          : Order document
+regnskaber-godkendelsesdato-label                                                                   : Date of approval
+regnskaber-dirigent-label                                                                           : Chairman
+regnskaber-tilbagetrukket-label                                                                     : Withdrawn report
+regnskaber-datofortilbagetrukket-label                                                              : Date of withdrawal
+regnskaber-begrundelsetilbagetrukket-label                                                          : Reason
+virksomhed-regnskaber-omgjorte-aaben                                                                : Amended report
+virksomhed-regnskaber-omgjorte-lukket                                                               : Amended report
+regnskaber-dokumenter-label                                                                         : Get documents
+regnskaber-dokumentreferencer-hent-label                                                            : Get documents
+virksomhed-regnskaber-visalle-lukket                                                                : Show all financial statements
+virksomhed-regnskaber-visalle-aaben                                                                 : Show fewer financial statements
+virksomhed-regnskaber-tilbagetrukne-lukket                                                          : Withdrawn report
+virksomhed-regnskaber-tilbagetrukkne-lukket                                                         : Withdrawn report
+virksomhed-regnskaber-tilbagetrukne-aaben                                                           : Withdrawn report
+soeg-sortering-navn_desc-label                                                                      : Name Z-A
+soeg-sortering-navn_asc-label                                                                       : Name A-Z
+udvidede_oplysninger-registreretKapital-label                                                       : Registered capital
+udvidede_oplysninger-kapitalklasser-label                                                           : Classes of shares
+udvidede_oplysninger-seneste_vedtaegtsdato-label                                                    : Latest articles of association
+udvidede_oplysninger-regnskabsaar-label                                                             : Financial year
+udvidede_oplysninger-bibrancher-label                                                               : Secondary activity
+udvidede_oplysninger-momsregistreret-label                                                          : Registered for VAT
+udvidede_oplysninger-momsregistreret-text                                                           : Look it up at
+udvidede_oplysninger-formaal-label                                                                  : Objects
+udvidede_oplysninger-branchekode-label                                                              : Activity code
+udvidede_oplysninger-kommune-label                                                                  : Municipality
+udvidede_oplysninger-binavne-label                                                                  : Secondary names
+udvidede_oplysninger-binavne-visalle-aaben                                                          : Show fewer secondary names
+udvidede_oplysninger-binavne-visalle-lukket                                                         : Show all secondary names
+udvidede_oplysninger-boersnoteret-label                                                             : Listed
+udvidede_oplysninger-foerste_regnskabsperiode-label                                                 : First accounting period
+udvidede_oplysninger-postadresse-label                                                              : Mailing address
+udvidede_oplysninger-koncessionsdato-label                                                          : Date of concession
+erstdist-organisation-rolle-revision                                                                : Auditor
+artikel-vilkaar_og_betingelser-broedtekst                                                           : <p>&lt;p&gt;The general conditions for use and the &quot;Conditions for use of Danish public-sector data&quot; apply for use of CVR at Virk.&lt;/p&gt;<br/>&lt;p&gt;This includes the use of data extracts from CVR, and ordering and procuring documents in CVR at Virk. &lt;a href=&quot;https://www.retsinformation.dk/forms/r0710.aspx?id=27293&quot; target=&quot;_blank&quot;&gt;Read more in the CVR Act&lt;/a&gt; (only available in Danish).&lt;/p&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;1. Definitions&quot;&gt;<br/>&lt;p&gt;1.1. CVR at Virk means the entire CVR at Virk, i.e. all websites, including both front-end and back-end, which can be considered as part of the website.&amp;nbsp;&lt;/p&gt;<br/>&lt;p&gt;1.2. CVR means the Central Business Register established by law, see Consolidating Act no. 598 of 22 June 2000, including any later amendments (the CVR Act). &amp;nbsp;&lt;/p&gt;<br/>&lt;p&gt;1.3. User means a person who logs in to CVR at Virk, signs up for subscriptions to data extracts from CVR, orders and buys documents, and/or in some other way collects information from CVR at Virk.&lt;/p&gt;<br/>&lt;/div&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;2. General terms&quot;&gt;<br/>&lt;p&gt;2.1 CVR at Virk is run and owned by the Danish Business Authority.&lt;/p&gt;<br/>&lt;p&gt;2.2. CVR at Virk provides access to information about all Danish businesses and companies, as stipulated in the CVR Act, see point 1.2 above.&lt;/p&gt;<br/>&lt;p&gt;2.3. The User is responsible for ensuring that the User's hardware and software support use by the User of CVR at Virk, including the formats in which the ordered products are delivered to the User.&lt;/p&gt;<br/>&lt;p&gt;2.4. All documentation concerning deliverables in the form of data from CVR belongs to the Danish Business Authority.&lt;/p&gt;<br/>&lt;/div&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;3. Acceptance of these general conditions&quot;&gt;<br/>&lt;p&gt;3.1. If the User uses CVR at Virk without being logged in or without having been logged in, as a general rule, the User accepts the general terms for use of CVR at Virk, along with the rules pertaining to entities protected against unsolicited advertising.&lt;/p&gt;<br/>&lt;p&gt;3.2. By using CVR at Virk via login, the User moreover accepts these conditions once and for all when logging in to CVR for the first time. This also applies for the use of data extracts from CVR at Virk.&lt;/p&gt;<br/>&lt;/div&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;4. Logging in and registering personal data&quot;&gt;<br/>&lt;p&gt;4.1. The user can perform individual searches in CVR at Virk without being logged in.&lt;/p&gt;<br/>&lt;p&gt;4.2. To order and pay for documents online the user must be logged in with NemID. For users without NemID it is possible to order documents via the Danish Business Authority's contact form.&lt;/p&gt;<br/>&lt;/div&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;5. Ordering and delivery of products&quot;&gt;<br/>&lt;p&gt;5.1. Documents are ordered in CVR by accepting the order in CVR at Virk.&lt;/p&gt;<br/>&lt;p&gt;5.2. An agreement is considered to have been established when the User has accepted and completed an order in CVR at Virk.&lt;/p&gt;<br/>&lt;p&gt;5.3. The documents ordered are made available for download, unless the documents have been ordered for delivery by post or by email.&lt;/p&gt;<br/>&lt;/div&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;6. Protection against unsolicited advertising&quot;&gt;<br/>&lt;p&gt;6.1. When delivering data from CVR to the User, the Danish Business Authority will withhold basic data on legal entities as well as production units which have opted out of receiving unsolicited advertising (entities protected against unsolicited advertising) under section 19(1) of the CVR Act.&lt;/p&gt;<br/>&lt;p&gt;6.2. However, basic data relating to entities that are protected against unsolicited advertising will not be withheld if the User pledges in writing to respect any protection of entities against unsolicited advertising; if the User pledges in writing to indicate to any third parties to whom the User passes on basic data which relates to entities that are protected against unsolicited that said data relates to entities that are protected against unsolicited advertising; and if the User pledges in writing to ensure that any third parties to whom the User passes on basic data which relates to entities that are protected against unsolicited advertising will comply with the above conditions pertaining to protection against unsolicited advertising.&lt;/p&gt;<br/>&lt;p&gt;6.3. Public authorities which receive data from CVR on entities protected against unsolicited advertising may approach these entities, provided they do so as part of the performance of their statutory duties.&lt;/p&gt;<br/>&lt;p&gt;6.4. If entities protected against unsolicited advertising are made public, the User must ensure that said entities are clearly marked as having opted for protection against unsolicited advertising.&lt;/p&gt;<br/>&lt;/div&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;7. Obligations of the User and cessation of use&quot;&gt;<br/>&lt;p&gt;7.1. The User is obliged to use and order information from CVR at Virk in accordance with these conditions for use. Furthermore, the User is subject to the &quot;Conditions for use of Danish public-sector data&quot;, other guidelines published in CVR as well as current legislation.&lt;/p&gt;<br/>&lt;p&gt;7.2. When buying documents, the User is subject to the current terms of trade.&lt;/p&gt;<br/>&lt;p&gt;7.3. The Danish Business Authority is entitled to exclude Users from CVR at Virk in the event that Users use and/or order information from CVR at Virk in contravention of these conditions for use, terms of trade, guidelines and/or legislation in general.&lt;/p&gt;<br/>&lt;p&gt;7.4. If the User fails to observe these conditions for use, the terms of trade and/or the &quot;Conditions for use of public-sector data&quot;, notwithstanding whether or not the User is logged in, the Danish Business Authority reserves the right to block said User's access to CVR at Virk without warning. The User is liable under the general rules of Danish law.&lt;/p&gt;<br/>&lt;p&gt;7.5. Automatic or systematic collection of data from CVR at Virk (e.g. crawling) is not allowed, see section 14 of Executive Order no. 932 of 21 August 2014 on The Central Business Register and &lt;a href=&quot;http://www.cvr.dk&quot;&gt;www.cvr.dk&lt;/a&gt; (CVR Executive Order). If the User demonstrates behaviour which indicates that automatic or systematic data collection from CVR at Virk is being carried out (irrespective of the number of searches), the Danish Business Authority reserves the right to close said User's access. The User may be subject to liability pursuant to the general rules of Danish law.&lt;/p&gt;<br/>&lt;p&gt;7.6. If user access has been blocked on the basis of point 7.5, in general access cannot be opened again. The Danish Business Authority will then conduct an individual assessment of whether user access should be reopened.&lt;/p&gt;<br/>&lt;/div&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;8. Amendments to conditions&quot;&gt;<br/>&lt;p&gt;8.1. Danish Business Authority provides no guarantee for the continued availability of data. The Danish Business Authority may at any time amend the conditions for use of CVR at Virk, including the terms of trade.&amp;nbsp;&amp;nbsp;&lt;/p&gt;<br/>&lt;p&gt;8.2. If there are amendments to the conditions for use of CVR at Virk, including the terms of trade, by continuing to make use of CVR, the User automatically and immediately accepts these amendments.&amp;nbsp;&lt;/p&gt;<br/>&lt;/div&gt;</p>
+adresse_beskyttet-hjaelp-indhold                                                                    : <p>&lt;p&gt;The participant's address is protected and is therefore not published in the CVR.&lt;/p&gt;</p>
+artikel-bestil_dokumenter-broedtekst                                                                : <p>&lt;p&gt;&lt;a href=&quot;https://erhvervsstyrelsen.dk/kundecenter?dc=72588&quot; target=&quot;_blank&quot;&gt;Write our customer support&lt;/a&gt; using the subject “I want to order documents and I am not a resident of Denmark”&lt;/p&gt;<br/>&lt;p&gt;To process your order we need some basic information. Please copy/paste the following text into the field “How can we help” and add your information:&lt;/p&gt;<br/>&lt;p style=&quot;margin-left: 40px;&quot;&gt;Your postal- and billing address:&lt;br&gt;Express (DKK 450) or normal (free) delivery:&lt;br&gt;This order regards CVR-number:&lt;br&gt;This order regards company name:&lt;br&gt;Type(s) of document(s) (see Document overview below):&lt;/p&gt;<br/>&lt;p&gt;&amp;nbsp;&lt;/p&gt;<br/>&lt;p&gt;If you need assistance, please call +45 7220 0030&lt;br&gt;Monday – Thursday 8:30 – 16:00, Friday 9:30 – 15:00&lt;/p&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;Document overview&quot;&gt;<br/>&lt;p&gt;Unless you can choose an English version, the documents are copies of originals compiled by the company and will be in Danish.&lt;/p&gt;<br/>&lt;p&gt;Please note, that not all document types are available for all companies. &lt;a href=&quot;https://datacvr.virk.dk/data/?language=en-gb&amp;amp;&quot; target=&quot;_blank&quot;&gt;Look up the company in CVR&lt;/a&gt; and check what is available under ‘Order other documents’.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Registreringscertifikat&lt;/strong&gt;, DKK 300&lt;br&gt;Documents that the business has been established according to Danish legislation.&lt;/p&gt;<br/>&lt;ul&gt;&lt;li&gt;Danish/English&lt;/li&gt;<br/>&lt;li&gt;Include secondary names&lt;/li&gt;<br/>&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Navneændringscertifikat&lt;/strong&gt;, DKK 500&lt;br&gt;Documents any change of name/address for the business.&lt;/p&gt;<br/>&lt;ul&gt;&lt;li&gt;Danish/English&lt;/li&gt;<br/>&lt;li&gt;Date (dd.mm.yyyy) or latest change&lt;/li&gt;<br/>&lt;li&gt;Include secondary names&lt;/li&gt;<br/>&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Vedtægter&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of the articles of association of the business.&lt;/p&gt;<br/>&lt;ul&gt;&lt;li&gt;Date (dd.mm.yyyy) or latest version&lt;/li&gt;<br/>&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Stiftelsesdokument&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of the agreement signed by the promoter to establish the company.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Generalforsamlingsprotokollat&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of the minutes of a general meeting.&lt;/p&gt;<br/>&lt;ul&gt;&lt;li&gt;Date (dd.mm.yyyy) or latest version&lt;/li&gt;<br/>&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Kapitaldokumentation&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of documentation for the capital of the company.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Vurderingsberetning&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of a statement from the auditors when capital is paid in as assets other than cash.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Ledelseserklæring&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of a statement from the company management when capital is paid in as an asset other than cash.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Åbningsbalance&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of documentation of capital when the capital on incorporation is paid in as another business.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Fusionsplan&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of the plan for an intended merger between two or more businesses.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Spaltningsplan&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of the plan for an intended demerger of the business.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Kopi af anmeldelsesblanket&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of the most recently submitted paper notification form&amp;nbsp;from the business, with information on who has submitted the notification and what was being registered.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Redegørelse om efterfølgende erhvervelser&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of the report submitted when the company has acquired capital from a promoter or an owner of capital in the first 24 months following establishment.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Redegørelse om selvfinansiering&lt;/strong&gt;, DKK 150&lt;br&gt;Copy of the report submitted when the company provides financial support for a third party to acquire capital in the same company.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Financial statements&lt;/strong&gt;&lt;br&gt;Please note, that most financial statements are free of charge. We do, however, charge for the manual processing of older statements that are not digital. Look up the company in CVR and check what is available under ‘Financial statements’.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Older financial statement&lt;/strong&gt;, DKK 300&lt;/p&gt;<br/>&lt;ul&gt;&lt;li&gt;Date (dd.mm.yyyy)&lt;/li&gt;<br/>&lt;/ul&gt;<br/>&lt;/div&gt;</p>
+artikel-reklamebeskyttelse-manchet                                                                  : All users of CVR at Virk must comply with the rules on protection against unsolicited advertising.
+regnskab-postlevering-modal-pris-fejl                                                               : Could not load price
+modal-download-pdf-gem_aabne_bjaelker-overskrift                                                    : Only save open menus
+soeg-branchekode-modal-manchet                                                                      : Note that you're searching in main industry and not secondary industry.
+forside-soegeresultat-download-modal-indhold                                                        : <p>&lt;strong&gt;Max 3,000 units&lt;/b&gt;&lt;br&gt;&lt;strong&gt;Your search result exceeds the maximum number of 3000 downloadable units.<br/>&lt;br&gt;&lt;br&gt;<br/>You may want to &lt;a href=&quot;https://datacvr.virk.dk/artikel/saadan-soeger-du&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;narrow down your search&lt;/a&gt;.&lt;/p&gt;</p>
+accordion-regnskaber-hjaelp-indhold                                                                 : <p>Get a list of the financial statements of this company and download financial statements free of charge. Financial statements are most often in Danish but may be in English, Norwegian or Swedish.&lt;br/&gt;&lt;br/&gt;</p><p>&lt;strong&gt;Older financial statements&lt;/strong&gt;&lt;br/&gt;<br/>If you need older financial statements which are only available on microfilm, you will have to order the financial statements and pay for them. This is the same as for other documents that cannot be supplied electronically. Payment requires log-in using NemID and is not translated.&lt;br/&gt;&lt;br/&gt;</p><p>&lt;strong&gt;Download the financial statements in different formats&lt;/strong&gt;&lt;br/&gt;<br/>If the financial statements are available in different formats, this will be indicated in the system. Choose the format that you want to download.</p>
+artikel-reklamebeskyttelse-broedtekst                                                               : <p>&lt;p&gt;Businesses can opt out of receiving advertising.&amp;nbsp;All users of CVR must confirm that wishes to opt out of receiving unsolicited advertising will be respected;&lt;/p&gt;<br/>&lt;ul&gt;&lt;li&gt;if the recipient forwards to third parties data relating to entities which are protected against unsolicited advertising, the recipient will indicate clearly to said third parties that the entity is protected against unsolicited advertising;&lt;/li&gt;<br/>&lt;li&gt;if the recipient forwards to third parties data relating to entities which are protected against unsolicited advertising, the recipient will procure a written declaration from said third parties that they will comply with the conditions for protection against unsolicited advertising;&lt;/li&gt;<br/>&lt;li&gt;the recipient will accept that any infringement of the conditions above will entitle the Danish Business Authority to withhold, without warning, basic data about these entities in its future deliveries of data from CVR.&lt;/li&gt;<br/>&lt;/ul&gt;&lt;p&gt;The User will be asked to accept the conditions above when the User visits CVR at Virk.&lt;/p&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;What does advertising protection notify?&quot;&gt;<br/>&lt;p&gt;If a CVR number is protected against unsolicited advertising, it means that the data in CVR at Virk may not be used in enquiries for advertising purposes.&lt;/p&gt;<br/>&lt;p&gt;Similarly, information about the business may not be used for other types of enquiry unless permission is granted, or if the business has given its consent.&lt;/p&gt;<br/>&lt;p&gt;Note that the advertising protection only applies for the information procured from CVR. If information from CVR is published elsewhere information about advertising protection must be included.&lt;/p&gt;<br/>&lt;p&gt;Information about a business appearing elsewhere, e.g. on the internet, is not covered.&lt;/p&gt;<br/>&lt;/div&gt;</p>
+ejerandel-afhaendelsesdato-label                                                                    : Disposal date:
+aktive-relationer-hjaelp-overskrift                                                                 : Active relations
+stamdata-har_Aktive_HvidvaskAktiviteter-label                                                       : Activities covered by the Anti-Money Laundering Act
+person-liberale_erhverv-generelle_efteruddannelser-anden_relevant_lovgivning_og_faglige_standarder-label: Other applicable legislation and professional standards
+ejerforhold-begunstigetgruppenavn-label                                                             : Beneficiary group name
+ejerforhold-begunstigetgrupperetskrav-label                                                         : Beneficiary group legal claim
+ejerandel-begunstighedretskrav-label                                                                : Beneficiary legal claim:
+tilfoej_til_kurv-error-notifikation-indhold                                                         : {0} was not added to your basket
+tilfoej_til_kurv-success-notifikation-indhold                                                       : '{0}' was added to your 
+errorpage-header                                                                                    : There has been an error 
+person-liberale_erhverv-godkendelsesdato-label                                                      : Date of approval
+alert-ingen_oversaettelse-text                                                                      : This page is not translated
+tilfoej_til_kurv-max_produkter-error-notifikation-indhold                                           : You cannot add more than 10 products to the basket.
+tilfoej_til_kurv-max_produkter-error-notifikation-overskrift                                        : An error occured
+tilfoej_til_kurv-error-notifikation-overskrift                                                      : An unexpected error occurred
+produktionsenhed-dine_handlinger-overskrift                                                         : Your actions
+person-liberale_erhverv-generelle_efteruddannelser-direkte_og_indirekte_skatter-label               : Direct and indirect taxes
+virksomhed-fulgt_virksomhed-label                                                                   : You follow the business
+hvidvask-aktivitet-ejendomsadministratorer                                                          : Property administrators
+notifikationstype-ejerkreds                                                                         : Ownership
+erstdist-betydeligindflydelseviarolle-er_reel_ejer_som_stifter                                      : Is the actual owner as the founder
+hvidvask-aktivitet-fondForvalter                                                                    : Fund manager
+stamdata-registreret_i_hvidvaskregistret-label                                                      : Registered cf. the Anti-Money Laundering Act
+person-liberale_erhverv-sikkerhedsstillelser-forsikringsselskab_navn                                : Insurance company
+person-liberale_erhverv-certificeringer-forsikringsselskaber_og_tvaergaaende_pensionskasser         : Insurance companies and lateral pension funds
+person-liberale_erhverv-sikkerhedsstillelser-forsikringstype                                        : Type of insurance
+virksomhedsrelation-fratraadt-label                                                                 : Resigned
+modal-opret-abonnement-indhold-notifikation                                                         : <p>&lt;p&gt;Get notified when there are changes in businesses you follow.&lt;/p&gt;<br/>&lt;p&gt;You can subscribe to notifications about businesses in CVR. All you have to do is enter your email address.&lt;/p&gt;</p>
+aktive-relationer-hjaelp-indhold                                                                    : <p>Get an overview of businesses that this person has active relations to.</p>
+mail-frekvens-straks                                                                                : Get notifications immediately
+mail-frekvens-dagligt                                                                               : Get daily notifications
+person-liberale_erhverv-saerlige_efteruddannelser-generelt_om_finansiel_virksomhed-label            : General information about financial business
+errorpage-manchet                                                                                   : <p>The action you attempted to execute failed.</p><p>Click Back and try again</p><p>If the error occurs again, we recommend that you try again later.</p>
+ejerandel-kapitalklasse-label                                                                       : Class of shares:
+hvidvask-aktivitet-kontorhoteller                                                                   : Office hotels
+modal-opret-abonnement-link-label                                                                   : Read more about how we process your personal data and your rights in connection with news and notifications.
+modal-administrer-abonnement-label                                                                  : Mail frequency
+modal-opret-abonnement-mail-label                                                                   : The notification is sent to
+modal-administrer-abonnement-checkbox-label                                                         : Receive notifications regarding
+soeg-sortering-nulstil-label                                                                        : Reset
+notifikationstype-offentliggoerelser                                                                : Publications
+ejerforhold-ophoerte-aaben                                                                          : Terminated ownership
+person-liberale_erhverv-certificeringer-pengeinstitutter_og_realkreditinstitutter                   : Banks and mortgage lenders
+person-liberale_erhverv-saerlige_efteruddannelser-periode-label                                     : The period
+notifikationstype-personkreds-og-tegningsregel                                                      : Key individuals and power to bind
+regnskab-postlevering-modal-pris-label                                                              : Price
+hvidvask-aktivitet-professionelleDirektorerEjere                                                    : Professional directors/owners
+erstdist-udoevertype-revisor                                                                        : Register of approved auditors and audit firms
+notifikationstype-registreringshistorik                                                             : Registration history
+accordion-virksomhedRegistreringer-hjaelp-indhold                                                   : <p>&lt;p&gt;Shows all of the announcement about the business in the Registration journal. For example, changes in the executive management and the board of directors, auditors, capital, financial year and registered office.&lt;/p&gt;<br/>&lt;p&gt;The information only dates as far back as to 1986.&lt;/p&gt;<br/>&lt;p&gt;For technical reasons this section is not translated.&lt;/p&gt;</p>
+notifikationstype-regnskabsaendring                                                                 : Financial statements
+person-liberale_erhverv-saerlige_efteruddannelser-regnskabsaflaeggelse_i_forsikringsselskaber_og_pensionskasser-label: Financial reporting in insurance companies and lateral pension funds
+person-liberale_erhverv-saerlige_efteruddannelser-regnskabsaflaeggelse_i_pengeinstitutter_og_realkreditinstitutter-label: Financial reporting in banks and mortgage lenders
+virksomhed-hovedselskab-regnskabsaar                                                                : Financial year
+person-liberale_erhverv-generelle_efteruddannelser-retslige_krav_og_standarder-label                : Legal requirements and standards
+person-liberale_erhverv-saerlige_efteruddannelser-revision_af_forsikringsselskaber_og_pensionskasser-label: Audit of insurance companies and lateral pension funds
+person-liberale_erhverv-saerlige_efteruddannelser-revision_af_pengeinstitutter_og_realkreditinstitutter-label: Audit of banks and mortgage lenders
+person-liberale_erhverv-generelle_efteruddannelser-revisions_og_erklaeringsomraadet-label           : Audit and statement section
+stamdata-stiftetfor1900-tekst                                                                       : The business was founded before 1900
+hvidvask-aktivitet-selskabsadministratorer                                                          : Business administrators
+hvidvask-aktivitet-selskabsfabrikanter                                                              : Business manufacturers
+modal-opret-abonnement-mail-fejlmeddelelse                                                          : Please enter a valid email
+soeg-sortering-aria_label                                                                           : Sort search results
+person-liberale_erhverv-sikkerhedsstillelser-forsikringsforhold_startdato                           : Start date for insurance conditions
+personkreds-suppleantfor-label                                                                      : Alternate for:
+saerlige_ejerforhold-label                                                                          : Special ownership:
+tilfoej_til_kurv-success-notifikation-overskrift                                                    : Added to basket
+virksomhedsrelation-tiltraedelsesdato-label                                                         : Date of joining
+person-liberale_erhverv-generelle_efteruddannelser-total-label                                      : Total
+personkreds-udnaevntaf-label                                                                        : Appointed by: 
+personkreds-valgform-label                                                                          : Election procedure:
+hvidvask-aktivitet-valutahandel                                                                     : Foreign exchange trading
+hvidvask-aktivitet-vekselkontorer                                                                   : Currency exchange offices
+ejerforhold-virksomhed-har-ikke-kunnet-identificere-reelle-ejere-tekst                              : The business has not been able to identify its beneficial owners and the management has been registered as beneficial owners 
+notifikationstype-virksomhedsoplysninger                                                            : Business information
+oplysninger_om_revisionsvirksomhed-revisorer-vis-alle-lukket                                        : Show all auditors
+oplysninger_om_revisionsvirksomhed-revisorer-vis-alle-aaben                                         : Show fewer auditors
+forside-soegefelt-filter-anden-branche-button                                                       : Select another industry
+mail-frekvens-ugeligt                                                                               : Get weekly notifications
+accordion-virksomhedRegistreringer-overskrift                                                       : Registration history (in Danish)
+virksomhedRegistreringer-regnummer-label                                                            : Registration number:
+erstdist-udoevertype-ejendomsmaegler-faglig_titel                                                   : Estate agent
+erstdist-udoevertype-ejendomsformidler-faglig_titel                                                 : Lawyer and property mediator
+erstdist-udoevertype-revisor-faglig_titel                                                           : Auditor
+erstdist-godkendelsestype-registreret                                                               : Registered
+erstdist-godkendelsestype-statsautoriseret                                                          : State-Authorised
+bestil_dokumenter-registreringscertifikat-label                                                     : Secondary names
+person-liberale_erhverv-saerlige_efteruddannelser-total-label                                       : Total
+person-liberale_erhverv-generelle_efteruddannelser-periode-label                                    : The period
+person-dine_handlinger-overskrift                                                                   : Your actions
+virksomhed-dine_handlinger-overskrift                                                               : Your actions
+accordion-virksomhedRegistreringer-hjaelp-overskrift                                                : Registration history
+ejerforhold-ophoerte-lukket                                                                         : Terminated ownership
+regnskab-postlevering-modal-titel-label                                                             : Title
+artikel-saadan_soeger_du-broedtekst                                                                 : <p>&lt;p&gt;There is only one search box in CVR. You can search on CVR number, name of business, city, street name, person, P-number, etc.&lt;/p&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;How to do a search&quot;&gt;<br/>&lt;p&gt;You can search for a specific business by typing the following in the search box in CVR:&lt;/p&gt;<br/>&lt;ul&gt;&lt;li&gt;the name of the business&lt;/li&gt;<br/>&lt;li&gt;the CVR number&lt;/li&gt;<br/>&lt;li&gt;the P number&lt;/li&gt;<br/>&lt;li&gt;names of individuals&lt;/li&gt;<br/>&lt;li&gt;address&lt;/li&gt;<br/>&lt;/ul&gt;<br/>&lt;/div&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;How to do an advanced search&quot;&gt;<br/>&lt;p&gt;&lt;strong&gt;AA/Å&lt;/strong&gt;&lt;br&gt;The search engine will not automatically search for AA and Å as the same letter. It will therefore make a difference whether you search e.g. for 'Århus apotek' or 'Aarhus apotek'. We recommend that you try both combinations when searching for names that can be spelled with either AA or Å.&lt;/p&gt;<br/>&lt;p&gt;An example: Aarhus apotek or Århus apotek&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Expand your search&lt;/strong&gt;&lt;br&gt;If you are not familiar with the correct or full name of the business, you can insert an asterisk (<em>) at the beginning, middle or end of your search words.&amp;nbsp; This will then expand your search. An example: Dansk super</em>, Søren <em>ristensen, Søren Krist</em>sen&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Limit your search&lt;/strong&gt;&lt;br&gt;If you want to limit your search you can put quotation marks (” ”) around your search words. This will limit your search. An example: ”Asger Aamund”.&lt;/p&gt;<br/>&lt;p&gt;By using the minus sign (-) in front of a word, you can exclude the word from your search. An example: Københavns kommune –idrætsanlæg&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Avoid natural language&lt;/strong&gt;&lt;br&gt;The search engine does not understand natural language (such as questions), so you should search for specific businesses, CVR numbers or P-numbers.&lt;/p&gt;<br/>&lt;/div&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;Limit your search with filters&quot;&gt;<br/>&lt;p&gt;To the right, under the search box on the front page of CVR, you can click on 'Filter'.&amp;nbsp; This offers you a number of options:&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Options for limiting your search&lt;/strong&gt;&lt;br&gt;You can limit your search by business type, business status, number of employees, advertising protection, business markers, municipality, region and role/function (when searching for an individual).&lt;/p&gt;<br/>&lt;p&gt;You can choose to further limit your search with multiple simultaneous filters.&lt;/p&gt;<br/>&lt;p&gt;You can also choose not to search for anything in specific and just filter by for example 'business type' and 'number of employees'. This will allow you to see a list of all companies og a specific type with a specific number of employees.&amp;nbsp;&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Active and inactive fields&lt;/strong&gt;&lt;br&gt;If you have performed a search and the title on the scrollbar is grey, it is because your search has yielded no results. When the titles are black, they are active.&lt;/p&gt;<br/>&lt;/div&gt;</p>
+accordion-udvidede_virksomhedsoplysninger-hjaelp-indhold                                            : <p>&lt;p&gt;Provides an expanded view of data on this business, including activity code, objects and much more.&lt;/p&gt;<br/>&lt;p&gt;See a list of &lt;a href=&quot;https://www.dst.dk/pukora/epub/upload/11119/bilag3.pdf&quot; target=&quot;_blank&quot;&gt;translated activity codes&lt;/a&gt;.&lt;/p&gt;</p>
+accordion-antal-ansatte-hjaelp-indhold                                                              : <p>&lt;ul&gt;<br/>&lt;li&gt;Employees are the number of persons employed in a given quarter.&lt;/li&gt;</p><p>&lt;li&gt;FTEs are the same persons converted into full-time equivalents. E.g., 2 half time employees = 1 FTE.&lt;/li&gt;<br/>&lt;/ul&gt;<br/>&lt;p&gt;Number of employees comes from Statistics Denmark and is based on pay data from the Danish tax authorities (SKAT).&lt;/p&gt;<br/>&lt;p&gt;If there is no information for a given period we have not received information about the company's number of employees for that period. Most often it is because there were no employees in the period. In rare cases the company has not reported pay data for other reasons.&lt;/p&gt;<br/>&lt;p&gt;The numbers are updated continuously as we receive data from Statistics Denmark.&lt;/p&gt;</p>
+alert-ingen_oversaettelse-header                                                                    : Attention
+sprogvalg-groenlandsk-link                                                                          : Kalaallisut
+sprogvalg-engelsk-link                                                                              : English
+sprogvalg-dansk-link                                                                                : Dansk
+forside-card1-link2                                                                                 : Help with search
+forside-card1-link3                                                                                 : Help with extraction
+forside-card1-link4                                                                                 : Prices and delivery
+forside-card2-link1                                                                                 : Create corporation
+forside-card2-link2                                                                                 : Change corporation
+forside-card4-link3                                                                                 : Follow corporation
+header-login-label                                                                                  : Log in
+header-digital_post-label                                                                           : Digital Mail
+forside-soegefelt-filter-dropdown-default-placeholder                                               : Choose
+global-applikationsnavn                                                                             : CVR - Central Business Register
+header-hjaelp-label                                                                                 : Help
+sr-skip-nav                                                                                         : Skip to content
+alert-luk-label                                                                                     : Close
+header-logout-label                                                                                 : Logout
+virksomhed-status-AKTIV-label                                                                       : Active
+subnav-aria_label                                                                                   : Sub navigation
+topnav-aria_label                                                                                   : Top navigation
+forside-card4-overskrift                                                                            : More about
+forside-card3-overskrift                                                                            : Other databases
+forside-card2-overskrift                                                                            : Creating or changing a corporation?
+forside-card1-overskrift                                                                            : Get help with CVR
+artikel-vilkaar_og_betingelser-overskrift                                                           : Conditions for use
+artikel-vilkaar_og_betingelser-manchet                                                              : CVR collects information about Danish businesses. This is an activity which is authorised by law.
+udvidede_oplysninger-seneste_vedtaegtsdato_foer-1900-label                                          : Before 1900
+artikel-handelsbetingelser-overskrift                                                               : Terms of trade
+artikel-handelsbetingelser-manchet                                                                  : The Danish Business Authority accepts payment for documents by credit card or by giro transfer for individual invoices or monthly invoices.
+artikel-handelsbetingelser-broedtekst                                                               : <p>&lt;p&gt;&lt;strong&gt;Scope&lt;/strong&gt;&lt;br&gt;These terms and the Danish Consumer Contracts Act only apply if you are dealing with the Danish Business Authority as a consumer.&lt;br&gt;&lt;br&gt;&lt;strong&gt;What does not apply?&lt;/strong&gt;&lt;br&gt;If you are a business owner, the terms of trade (apart from the provisions on payment and delivery) do not apply. Instead, your dealings with the Danish Business Authority will then be subject to the current general rules of the Danish Sale of Goods Act. The Danish Consumer Contracts Act also does not apply, which means that as a business owner you have no right to cancel a transaction.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Foreign business owners&lt;/strong&gt;&lt;br&gt;As a foreign business owner, you accept that Danish law applies to the transaction, except for the Danish rules on choice of law and the UN Convention on Contracts for the International Sale of Goods (CISG). Your purchase is regulated solely by the provisions of the Danish Sale of Goods Act concerning commercial purchases.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Payment by credit card&lt;/strong&gt;&lt;br&gt;A credit card means Dankort, VISA/Dankort, VISA, VISA electron, American Express, Maestro, Master Card and JCB.&lt;/p&gt;<br/>&lt;p&gt;All prices stated on the CVR site are in DKK and inclusive of all taxes and duties, etc. Services from the CVR site are not subject to VAT.&lt;/p&gt;<br/>&lt;p&gt;In connection with payments by credit card, the amount payable will not be drawn from the User's account until the product has been shipped to the User. If an order contains several products, the amounts payable will not be drawn from the User's account until shipment of the last ordered product.&lt;/p&gt;<br/>&lt;p&gt;A product is considered to be shipped when the User can access the product ordered in the format ordered.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Payment is via a secure connection&lt;/strong&gt;&lt;br&gt;Payment is via a secure connection (https). The data entered in connection with a purchase paid for by credit card will be encrypted and only PBS (automatic funds transfer service) can read the data. Neither the Danish Business Authority nor anyone else has access to reading the data. A small padlock icon at the bottom of the browser indicates that the connection is a secure connection.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Encryption&lt;/strong&gt;&lt;br&gt;On the CVR at Virk site, communication in the payments modules between the User and the server at the Danish Business Authority is encrypted with SSL encryption (Secure Socket Layer). The SSL solution includes encryption of transfers and the use of encryption certificates. These certificates comply with all the security requirements of PBS. The DIBS payment system is used in connection with payment of all orders. DIBS has also been also approved by PBS. All payments are managed in this system and can be searched through the order number.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Payment of invoice&lt;/strong&gt;&lt;br&gt;Individual invoices issued immediately after an order, as well as monthly invoices are to be paid using the accompanying giro transfer form and by no later than 32 days after receipt of the invoice. The Danish Business Authority charges a reminder fee in the event of overdue payments.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Delivery time&lt;/strong&gt;&lt;br&gt;The delivery date for your order depends on what you have ordered. If you have ordered files, the order will be delivered as quickly as these can be produced by the system.&amp;nbsp; If your order is to be delivered by post, the expected shipping time is up to ten days.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;Right to cancel a transaction&lt;/strong&gt;&lt;br&gt;The right to cancel an electronic transaction lapses once the goods have been delivered according to the customer's specifications, and this applies for Danish Business Authority products for which there is a charge and which are not delivered electronically.&lt;/p&gt;<br/>&lt;p&gt;The right to cancel a transaction also lapses in connection with orders for products that are delivered electronically.&lt;/p&gt;<br/>&lt;p&gt;The User's right to cancel a transaction therefore also lapses once delivery of the product has commenced with the User's clear and prior consent to annulment of the right to cancel the transaction.&lt;/p&gt;<br/>&lt;p&gt;&lt;strong&gt;The contact information of the seller&lt;/strong&gt;&lt;/p&gt;<br/>&lt;p&gt;CVR no. 10150817&lt;br&gt;Danish Business Authority&lt;br&gt;Langelinie Allé 17&lt;br&gt;2100 Copenhagen Ø, Denmark&lt;br&gt;Tel.: +45 72 20 00 30&lt;br&gt;Fax: +45 35 29 10 01&lt;/p&gt;<br/>&lt;p&gt;The use of CVR at Virk is otherwise subject to current general conditions.&lt;/p&gt;</p>
+artikel-reklamebeskyttelse-overskrift                                                               : Protection against unsolicited advertising
+artikel-bestil_dokumenter-manchet                                                                   : Purchase of documents from CVR requires NemID digital signature which is only available for Danish enterprises and people (entities with a CVR- or CPR-number). We do, however, offer a more manual process for users who cannot get NemID.
+artikel-bestil_dokumenter-overskrift                                                                : How to order certificates and hardcopies
+artikel-byg_din_egen_virksomhedsrapport-overskrift                                                  : Create your own business report
+artikel-byg_din_egen_virksomhedsrapport-manchet                                                     : Combine your own business reports and choose the data to be shown.
+artikel-byg_din_egen_virksomhedsrapport-broedtekst                                                  : <p>&lt;p&gt;For example, if you only need data about registered persons associated with the business and powers to bind, you can choose to have only this data shown.&lt;/p&gt;<br/>&lt;p&gt;This is how you proceed:&lt;/p&gt;<br/>&lt;ol&gt;&lt;li&gt;Go to CVR and search for a business.&lt;/li&gt;<br/>&lt;li&gt;Expand the areas of information you want to include in your report or choose a predefined view in 'Select view'.&lt;/li&gt;<br/>&lt;li&gt;Print the report or save it as a PDF file.&lt;/li&gt;<br/>&lt;/ol&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=Download or print the report&quot;&quot;&gt;<br/>&lt;p&gt;You can choose to save the report as a PDF file or to print it. The records page for the individual business in CVR features a 'print' and a 'save' button to the right. You can either print or save all data on the business, or you can print or save the details featuring under individual and expanded menus on the records page for the business. The basic data for the business shown at the top of the page will always be included.&lt;/p&gt;<br/>&lt;/div&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;Get a report with the Danish Business Authority's digital signature&quot;&gt;<br/>&lt;p&gt;If you require confirmation of the authenticity of the report, you can choose to have the report signed digitally. You get a legally valid signature without having to wait for case processing and the post.&lt;/p&gt;<br/>&lt;/div&gt;</p><p>&lt;div class=&quot;accordion&quot; overskrift=&quot;Have physical documents signed&quot;&gt;<br/>&lt;p&gt;You can also order a signature on a physical copy of your report and collect it at our reception or have us send it to you by post. This requires a Danish NemID and the order flow is only available in Danish.&lt;/p&gt;<br/>&lt;/div&gt;</p>
+cookies.header.text                                                                                 : Cookies
+pris-valuta-label                                                                                   : {0}.00 DKK
+soegeresultater-alert-ingen_resultater-indhold                                                      : Make sure there are no type errors and that the CVR number does not contain spaces
+accordion-regnskaber-hjaelp-overskrift                                                              : Financial statements
+virksomhed-regnskaber-tilbagetrukkne-hjaelp-indhold                                                 : <p>The annual report has been withdrawn from publication. It is therefore no longer available.&lt;br/&gt;&lt;br/&gt;</p><p>A previously published annual report can for example be withdrawn because:&lt;br/&gt;</p><p>• the Danish Business Authority found that it contains such serious errors or omissions that the document is grossly misleading&lt;br/&gt;<br/>• the annual report has not been duly approved and audited&lt;br/&gt;<br/>• if the same annual report has been reported several times due to a technical error without the report being amended</p>
+paginering-forrige-link                                                                             : Previous
+paginering-naeste-link                                                                              : Next
+soegeresultater-tabel-vis_mere-label                                                                : Show more
+header-kurv-label                                                                                   : View basket
+header-kurv-antal-produkter-label                                                                   : View basket ({0})
+soegeresultater-alert-ingen_resultater-overskrift                                                   : No search results were found
+side-titel-bestildokumenter                                                                         : Order documents
+side-titel-errorpage                                                                                : Page was not found
+antal-ansatte-periode-maaned-2                                                                      : February
+antal-ansatte-periode-maaned-1                                                                      : January
+antal-ansatte-periode-maaned-3                                                                      : March
+antal-ansatte-periode-maaned-4                                                                      : April
+antal-ansatte-periode-maaned-5                                                                      : May
+antal-ansatte-periode-maaned-6                                                                      : June
+antal-ansatte-periode-maaned-7                                                                      : July
+antal-ansatte-periode-maaned-8                                                                      : August
+antal-ansatte-periode-maaned-9                                                                      : September
+antal-ansatte-periode-maaned-10                                                                     : October
+antal-ansatte-periode-maaned-11                                                                     : November
+antal-ansatte-periode-maaned-12                                                                     : December
+eid-login-overskrift                                                                                : How do you want to log in?
+eid-login-employee-label                                                                            : Employee from an EU/EEA country using my national digital ID
+eid-login-nemid-label                                                                               : NemID (Private or employee signature)
+eid-login-private-label                                                                             : Private person from an EU/EEA country using my national digital ID
+eid-login-husk_valg-label                                                                           : Remember my choice
+eid-login-annuller-label                                                                            : Cancel
+eid-login-fortsaet_til_login-label                                                                  : Continue to login
+broedkrumme-eidlogin                                                                                : eID login
+accordion-personkreds-hjaelp-overskrift                                                             : Power to bind, key individuals and auditor
+accordion-personkreds-hjaelp-indhold                                                                : <p>&lt;strong&gt;Power to bind the company&lt;/strong&gt; &lt;br/&gt;<br/>The provisions regarding the power to bind the company indicate who may make contracts on behalf of the company.&lt;br/&gt;</p><p>Sole proprietorships and other personally owned companies do not have any such provisions. The persons who bind a personally owned company are always the fully liable partners (or partner).&lt;br/&gt;</p><p>&lt;strong&gt;Fully liable partner&lt;/strong&gt; &lt;br/&gt;<br/>A fully liable partner owns a personally owned company. Some company types have several fully liable partners. They are personally, jointly and severally liable. &lt;br/&gt;</p><p>&lt;strong&gt;Management&lt;/strong&gt; &lt;br/&gt;<br/>The management is responsible for the day-to-day management of the company. If the company is managed by the management alone, the management is also responsible for the overall and strategic management of the company.&lt;br/&gt;</p><p>&lt;strong&gt;Board of Directors&lt;/strong&gt; &lt;br/&gt;<br/>The Board of Directors is responsible for the overall and strategic management of the company. &lt;br/&gt;</p><p>&lt;strong&gt;Supervisory Board&lt;/strong&gt; &lt;br/&gt;<br/>The Supervisory Board may supervise the management if it has been decided not to have a Board of Directors.&lt;br/&gt;</p><p>&lt;strong&gt;Founders&lt;/strong&gt; &lt;br/&gt;</p><p>The founders decided to found the company.&lt;br/&gt;</p><p>&lt;strong&gt;Auditor&lt;/strong&gt; &lt;br/&gt;</p><p>The auditor is the person appointed to audit the company's annual report.</p>
+antal-ansatte-pr-kvartal-tabel-label-periode                                                        : Period
+antal-ansatte-pr-maaned-tabel-label-periode                                                         : Period
+antal-ansatte-pr-kvartal-tabel-label-antalAnsatte                                                   : Employees
+antal-ansatte-pr-maaned-tabel-label-antalAnsatte                                                    : Employees
+antal-ansatte-pr-kvartal-ansatte                                                                    : Employees
+antal-ansatte-pr-kvartal-aarsvaerk                                                                  : Full-time equivalent
+ean_nummer-fejlmeddelelse-label                                                                     : EAN number is not valid
+accordion-antal-ansatte-hjaelp-overskrift                                                           : About number of employees
+accordion-antal-ansatte-overskrift                                                                  : Number of employees
+intern_reference-fejlmeddelelse-label                                                               : Internal reference is too long
+tilfoej_til_kurv-toastr-linktekst                                                                   : basket
+forside-card1-link1                                                                                 : Help with CVR
+virksomhed-offentliggoerelser-titel                                                                 : Title
+stamdata-tilhoerende_cvrnummer-label                                                                : Related to CVR number
+stamdata-bibrancher-label                                                                           : Secondary activity
+stamdata-reklamebeskyttelse-link                                                                    : Terms of use
+soeg-filter-virksomhedsstatus-underlikvidation-label                                                : Under liquidation
+side-titel-artikel                                                                                  : Articles
+forside-soegefelt-aabn_filtre-label                                                                 : Filter
+forside-soegefelt-luk_filtre-label                                                                  : Close filter
+forside-soegefelt-filter-ophoersdato_fra-label                                                      : From
+forside-soegefelt-filter-startdato_til-label                                                        : To
+forside-soegefelt-filter-ophoersdato_til-label                                                      : To
+forside-soegefelt-filter-startdato_fra-label                                                        : From
+forside-soegefelt-filter-branche-button                                                             : Select industry
+forside-soegefelt-filter-startdato_ophoersdato-button                                               : Show date filter
+forside-soegefelt-filter-startdato_ophoersdato_luk-button                                           : Close date filter
+forside-soegefelt-filter-antalAnsatte-label                                                         : Number of employees
+forside-soegefelt-filter-personrolle-label                                                          : Person's affiliation
+forside-soegefelt-filter-virksomhedsform-label                                                      : Business type
+forside-soegefelt-filter-region-label                                                               : Region
+forside-soegefelt-filter-kommune-label                                                              : Municipality
+forside-soegefelt-filter-virksomhedsstatus-label                                                    : Business status
+forside-soegefelt-filter-branche-label                                                              :  Choose activity
+forside-soegefelt-filter-startdato_ophoersdato-label                                                :  Business's start and cessation dates
+forside-soegefelt-filter-virksomhedsmarkering-label                                                 : Business marker
+forside-soegefelt-header                                                                            : Search CVR
+side-titel-forside                                                                                  : Search CVR
+forside-soegefelt-aria_label                                                                        : Search CVR
+header-soeg-label                                                                                   : Search CVR
+soegeresultater-overskrift                                                                          : We found {0} results
+side-titel-soegeresultater                                                                          : Search results
+broedkrumme-soegeresultater                                                                         : Search results
+soegeresultater-tabel-aktive_relationer-label                                                       : Active connections:
+soegeresultater-tabel-tilknytning-label                                                             : Affiliation:
+soegeresultater-tabel-virksomhedsform-label                                                         : Business type:
+soegeresultater-tabel-status-label                                                                  : Status:
+soegeresultater-tabel-cvrnummer-label                                                               : CVR:
+soegeresultater-tabel-p_nummer-label                                                                : P-number:
+soegeresultater-tabel-regnummer-label                                                               : REG:
+soegeresultater-tabel-aktive_relationer-true-tekst                                                  : Yes
+soegeresultater-tabel-aktive_relationer-false-tekst                                                 : No
+enhedstype-alle-label                                                                               : All
+multiselect-dropdown-muligheder_valgt                                                               : {0} of {1} chosen
+side-titel-enhedsvisning                                                                            : Unit view
+broedkrumme-enhedsvisning                                                                           : Unit View
+stamdata-se_alle_enheder_paa_adressen-link                                                          : All entities on the address
+stamdata-ja-label                                                                                   : Yes
+stamdata-status-label                                                                               : Status
+stamdata-virksomhedsform-label                                                                      :  Business type
